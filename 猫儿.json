@@ -1,3 +1,4 @@
+
 {
 "spider": "https://pan.shangui.cc/f/QPypsm/ChaX1",
 
@@ -6,7 +7,7 @@
 "lives": [{"name": "live","type": 0,"url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"}],
 
 "warningText": "好好学习天天向上！",
-投影仪砖家超哥
+
 "sites": [
 
 {"key":"豆瓣","name":"投影仪砖家超哥","type": 3,"api": "https://agit.ai/XiaoYiChaHang/xxzb/raw/branch/master/hccx/Api.js","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://download.kstore.space/download/4548/js/Doubanrebo.js"},
