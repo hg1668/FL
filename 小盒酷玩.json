@@ -5,7 +5,7 @@
 
 "sites":[
 
-{"key": "豆瓣","name": "豆瓣｜热播","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"奇异","name":"🐈‍奇艺|JS","type":3,"api":"./lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
 {"key":"光影","name":"🐈‍光影|XP","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://gymcms.xn--654a.cc/api.php/app/"},
 {"key": "csp_WoGG","name": "👽玩偶┃云盘","type": 3,"api": "csp_WoGG","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://leige9042.tpddns.cn:3000/jk-main/tvbox/tok.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
