@@ -14,7 +14,7 @@
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 {"key": "kwmb","name": "🦴酷玩┃秒播","type": 1,"api": "https://ys.md214.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 1,"playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=","categories": ["电影","连续剧","动漫","综艺"]},
-
+{"key": "csp_AppYsV2_嘉靓","name": "嘉靓影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"maopan","name":"移动云盘","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.iptv.ski/api.php/app/"},
 {"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
