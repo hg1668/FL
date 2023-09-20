@@ -20,19 +20,6 @@
 {"key": "csp_淘剧影视","name": "淘剧影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 {"key":"drpy_js_酷云七七","name":"影视 | 酷云七七[js]","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js","ext":"https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/酷云77.js"},
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
-    {
-            "key": "csp_AucFox",
-                  "name": "📽️AucFox┃BPQ",
-                        "type": 3,
-                              "api": "csp_XBPQ",
-                                    "ext": {
-                                            "站名":"AucFox影视",
-                                                    "主页url": "https://www.aucfox.fun/",
-                                                            "分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",
-                                                                    "分类url": "https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"
-                                                                          }
-                                                                              },
-    }
 
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 
