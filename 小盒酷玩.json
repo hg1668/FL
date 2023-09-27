@@ -22,8 +22,7 @@
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 {"key":"厂长在线","name":"👷厂长┃在线","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
-{"key": "Aid", "name": "🚑急救┃教学", "type": 3,  "jar": "csp_FirstAid","searchable": 0, "quickSearch": 0,  "changeable": 0,
-"style": { "type": "rect", "ratio": 3.8},
+
 
 {"key":"6v","name":"🤘6V┃磁力","type":3,"api":"csp_XYQHiker","playerType":1,"ext":"./json/6v.json","jar":"./jar/xyq.jar"},
 
