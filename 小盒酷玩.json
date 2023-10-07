@@ -6,10 +6,11 @@
 "sites":[
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-
-
+{"key":"追忆","name":"追忆","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
+{"key":"布蕾影视","name":"⚡布雷","type":3,"api":"csp_Appto","playerType":2,"ext":"VmFIZ%2BKCSW%2FfudthUQAhFThUBIjrjzM9FhQ9ltb5OkOZwS5t5apI%2Fl5aD1jfpTFMapmCeCVT1KbO2DB25TEQsNr7mxtNhIZHKijji10lqetyAK%2F4Ua5pO1zpAILY3VhMRNW0aH5OdWT24ufPDTR0fg%3D%3D|KMjRRRTJyY0JKald3RWFFOFB3RnlBZU1QUm1DaVRCcnR8aHR0cDovLzIyMi4xMzQuMC4xNzE6MTY4Ny9hcHB0by92MQ==","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
+{"key":"大鹏","name":"大鹏","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 {"key": "玉米","name": "🌽玉米","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
-{"key":"追忆","name":"⭕追┃忆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追忆.js"},
+
 
 {"key": "酷玩","name": "🎯酷玩┃云盘","type": 3,"api": "csp_Wogg", "searchable": 1,"changeable": 0,"ext": {"token": "8d0c1f989f8c4aa2931f243ea0e7c8b4","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
 
@@ -29,7 +30,7 @@
 
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
-{"key": "厂长在线","name": "👷厂长┃在线","type": 3, "playerType": 2,"api": "./lib/drpy2.min.js","ext": "./lib/在线.js"},
+{"key":"厂长在线","name":"👷厂长","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
 { "key": "天空资源","name": "🎀天空.云播┃采集","type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["国产剧", "剧情片","大陆综艺","动作片" ] },
 {"key": "csp_KungFu404","name": "🐲️阿里｜4k有效","type": 3,"api": "csp_KungFu404", "searchable": 1,"filterable": 0, "changeable": 0,"jar": "./jar.php?id=ali;md5;89344c61eb48e87c06678805ad697464" },
 
@@ -97,6 +98,7 @@
 {"name": "解析聚合","type": 3,"url": "Demo"},
 { "name": "777", "type": 0,"url": "https://jx.777jiexi.com/player/?url=" },
 {"name": "🌽玉米","type": 1,"url": "http://61.147.93.21:8090/index.php?url="},
+{"name": "⭕官方","type": 1,"url": "http://119.91.31.224:82/txqq.php?url=","ext": {"flag": ["qq", "腾讯"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 
 {"name": "web聚合","type": 3,"url": "Web"},
 {"name":"猫Ⓐ","type":1,"url":"http://27.124.4.42:4567/jhjson/ceshi.php?url=","User-Agent":"okhttp/3.12.0","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","yk","mgtv","芒果","CL4K","renrenmi","ltnb","bilibili","1905","xigua"]}},
