@@ -7,8 +7,8 @@
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "csp_AppYsV2_玉米", "name": "🌽玉米┃切片","type": 3,"api": "csp_AppYsV2","playUrl": "http://61.147.93.21:8090/index.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "http://ym.dytt996.com:3/api.php/app/" },
 
+{"key": "玉米","name": "🌽玉米","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 {"key":"追忆","name":"⭕追┃忆","type":3,"api":"./lib/drpy2.min.js","ext":"./js/追忆.js"},
 
 {"key": "酷玩","name": "🎯酷玩┃云盘","type": 3,"api": "csp_Wogg", "searchable": 1,"changeable": 0,"ext": {"token": "8d0c1f989f8c4aa2931f243ea0e7c8b4","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
