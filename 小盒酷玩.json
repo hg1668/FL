@@ -34,7 +34,8 @@
 
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
-{"key":"厂长在线","name":"👷厂长┃影视","type":3,"playerType":2,"api":"./lib/drpy2.min.js","ext":"./js/在线.js"},
+{"key": "Czsapp","name": "📔┃厂长┃2K","type": 3,"api":"csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
+
 { "key": "天空资源","name": "🎀天空.云播┃采集","type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["国产剧", "剧情片","大陆综艺","动作片" ] },
 {"key": "csp_KungFu404","name": "🐲️阿里｜4k有效","type": 3,"api": "csp_KungFu404", "searchable": 1,"filterable": 0, "changeable": 0,"jar": "./jar.php?id=ali;md5;89344c61eb48e87c06678805ad697464" },
 
