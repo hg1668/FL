@@ -67,7 +67,7 @@
 
 
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"}, 
-
+{"key": "Aid","name": "🚑┃急救┃教学","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 
 
 {"key": "来米","name": "🐼来米┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/来米.json"},
