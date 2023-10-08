@@ -31,7 +31,11 @@
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"maopan","name":"🌾移动┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://tv.iptv.ski/api.php/app/"},
 {"key": "csp_淘剧影视","name": "🍁淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
-
+{"key": "py_zyy","name": "🅱️┃中医┃药区", "type": 3,
+"api":"py_zyy","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://bitbucket.org/xduo/json/raw/master/zyy.py"},
+ {"key": "csp_骚火","name": "🔥┃骚火┃电影","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"},
+ {"key":"js_v2-yj","name": "🌙4K影音天堂","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/yyttzx.js"},
+ 
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 {"key": "Czsapp","name": "📔┃厂长┃2K","type": 3,"api":"csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1},
