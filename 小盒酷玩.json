@@ -7,7 +7,9 @@
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"追忆","name":"🌾追忆┃影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-{"key": "js_nangua","name": "🎃┃南瓜┃2K","type": 3,"api": "./lib/apiv1049drpy2.js","searchable": 1,"quickSearch": 1,"filterable": 1, "ext": "./lib/nangua.js"},
+{"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+    },  
+    
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},
 {"key":"布雷","name":"💥布雷┃App","type":3,"api":"csp_AppMao","playerType":2,"ext":"FbjDcUxPqpfNr0QF4QvE6sExbctTA5hPEi0VqbGzxElfS8iS6G6dxFvYo6amRiS2bHOKw3Esnj46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkaM/FqHtLjQhalHiNTh6w9P3uBbzOpYja64omwk1u3D/dlZ+e5i4lng3PuAGTEUBPE34oPNY9+tFWr0Ibd9pVxAueSBD3QUsYQDulUET8DZ4nPtGpPvrhlgkKksJ9s4mWmxer4u57B2OO9qc8jua09TybbufTjMaeJGQem8U1MtbZnyk1e3UtOPZyIlX24R7PWpyLc4U0VzmkquLAB3kRiQZa1pOYUYuwm6vu/8spvSLhGbMhy+5bLc5qpPAk0mnh1ezzPQa03Cfg3JV6WGwrolC1+3/","jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69"},
 {"key":"大鹏","name":"🐧大鹏┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
