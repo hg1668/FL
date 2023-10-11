@@ -1,8 +1,5 @@
 
-
 "warningText":"你好",    
-
-
 "sites":[
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
