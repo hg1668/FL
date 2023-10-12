@@ -5,7 +5,7 @@
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"追忆","name":"🌾追忆┃影视","type":3,"api":"csp_Appto","ext":"|NZWNwN0ZXZE02WTRreHpXY2ZmNjJwY0RjWGlZN2ZmQWF8aHR0cDovLzIyMi4yMTEuNzMuMTU3OjExMjIvYXBwdG8vdjE","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
 {"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},  
-    
+   {"key": "jojo_open","name": "影视|JOJO", "type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"}, 
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},
 
 {"key":"大鹏","name":"🐧大鹏┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
