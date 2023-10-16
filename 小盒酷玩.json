@@ -6,7 +6,10 @@
 {"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},  
    {"key": "jojo_open","name": "影视|JOJO", "type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"}, 
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},
-
+ { "key": "彩虹", "name": "🌈┃彩虹┃4K","type": 3, "api": "csp_AppYsV2","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod" },
+ {"key": "cjzy_暴风资源", "name": "🎈┃暴风┃影视","type": 1,"api": "https://bfzyapi.com/api.php/provide/vod/?ac=list", "playUrl": "",
+     "categories": [
+             "国产剧","纪录片","科幻片","喜剧片","战争片"] },
 {"key":"大鹏","name":"🐧大鹏┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 {"key": "玉米","name": "🌽玉米┃影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 {"key":"橘子影视","name":"橘子┃影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
