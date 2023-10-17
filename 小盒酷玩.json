@@ -3,7 +3,17 @@
 "sites":[
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-{"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},  
+{"key": "AppYs_南瓜","name": "👑┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
+ {
+         "key": "蚂蚁",
+               "name": "🐜蚂蚁┃直连",
+                     "type": 3,
+                           "api": "csp_MYYS",
+                                 "searchable": 1,
+                                       "quickSearch": 1,
+                                             "changeable": 1,
+                                                   "ext": "http://rzys.xyz"
+                                                       },  
  {"key": "jojo_open","name": "影视|JOJO", "type": 3,"api": "csp_JoJo","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"}, 
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},
  { "key": "彩虹", "name": "🌈┃彩虹┃4K","type": 3, "api": "csp_AppYsV2","playerType": 1,"searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "http://ys.qtw.asia/lvdou_api.php/v1.vod" },
