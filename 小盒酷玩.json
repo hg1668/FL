@@ -11,8 +11,7 @@
 {"key":"大鹏","name":"🐧大鹏┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://api.jialiangos.com:88/api.php/app/"},
 {"key": "玉米","name": "🌽玉米┃影视","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://yumi.ghlyys.com/api.php/app/"},
 {"key":"橘子影视","name":"橘子┃影视","type":3,"api":"csp_Appto","ext":"pB8fV1o5fODylO5AtO8tvf0F1lRBzZhIb0ydyOYoUZ69DpfdeG0oDdRtFLkWxpHU9kWB67yp98N%2FQRMqmBFfDAyox2BUH5%2BexjgENSd4e28Pxi%2B5t01guq9FdjMXODf8IiUY1tJcNlEWeTAdGho%2BjA%3D%3D|BTmtwQlNQQ05OQXdYMktjZWNtd1lNakdKYkNQYjVZcll8aHR0cDovLzE4MC4xODguMjIuMjE5OjI1MjUvYXBwdG8vdjEv","jar":"https://jihulab.com/cc7734437/svip/-/raw/main/jar/Appto.jar"},
-{"key":"Czsapp", "name": "📔厂长┃直连","type": 3,"api": "csp_Czsapp","playerType": 2,"searchable": 1,"quickSearch": 1,"changeable": 1, "ext": "https://www.cz01.org/",  "filterable": 1  },
-{"key": "蚂蚁","name": "🐜 蚂蚁", "type": 3,"api": "csp_Mayiys","jar": "https://gitee.com/lianes/lanco/raw/master/fan.txt;md5;533f279c487b5bd34cf4947a7afbee34","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://rzys.xyz" },
+
 {"key": "maolv_open","name": "🌻毛驴┃影视","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 {"key":"ytvip","name":"🍀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
 
@@ -27,12 +26,11 @@
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 {"key": "csp_快车资源","name": "🦄快车┃资源","type": 1,"api": "https://caiji.kczyapi.com/api.php/provide/vod/?ac=list","playurl": "json:https://jiexi.kczyapi.com/m3u8/?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["国产剧","香港剧","台湾剧","欧美剧","韩国剧","日本剧","泰国剧","海外剧","动作片","喜剧片","爱情片","科幻片","恐怖片","战争片","剧情片","动画片","国产动漫","日本动漫","欧美动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺","纪录片"] },
-{"key": "csp_AppYsV2_嘉靓","name": "嘉靓┃影视","type": 3,"api": "csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext": "http://cms.jialiangos.com/api.php/app/"},
+
 {"key": "xml_玩偶","name": "🧙玩偶┃哥哥","type": 4,"api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=533321a1c9e744ea827b0b45cccc91e4","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "csp_淘剧影视","name": "🍁淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
  {"key": "csp_骚火","name": "🔥┃骚火┃电影","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"},
- {"key":"js_v2-yj","name": "🌙4K影音天堂","type": 3,"api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js","ext": "https://jihulab.com/dimaston1/4k/-/raw/main/js/yyttzx.js"},
- 
+
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
 { "key": "天空资源","name": "🎀天空.云播┃采集","type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["国产剧", "剧情片","大陆综艺","动作片" ] },
@@ -71,7 +69,7 @@
 {"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
-
+{"key": "布蕾影视","name": "SVIP┃布蕾","jar": "./jar/kw.jar","type": 3,"api": "csp_Appto","playerType": 2,"ext": "WORXxxNkZ/qIm9P8Q2CsQoHSoD56ZMjPXTU1XhPjBeTgzFGjCvpUyPqE5Y6dWiwsSE/vPkW5b5oKcPiZVQlCfWmB6remhL7Xulwt9IU0jcZWpgqVp4RlS9Gi2C93UCL4i0XMpJFs0RIuS38ZfeBZcdLUOpBR+7XyE/MH6biUdL5TcOBRw+7DiK6M3KAckWDoWEn3Jc6WSCvUb+h6tHJPAoh6l8+fmTJZc+R+M4vRLjSmxS7LuK1PSBEwrh9Qaw+DEQPLSzq0fZPCR5BKmkV0YZnpys/ds+JBC0AS/bRNU9RYTOANYj4Im9cOnoy0Qsl1wwycAQ3PVkDCYbNaRQhUgCb/epnIgxjuqwTqWZPByZbOSA0COoCzA6K6MCUftxSJAKaMCOsUuWuorH9qSIMmQ6IFvQr+4JhTrtpZvF3aU2HWDDgCJZxRTS4jnRhYvgwUEQ0JZlUzinPnaPP/8oCwl+OM2qsNXAYoGCReqFrX0iMZbPs2BNcTjACIo8WAEQJiZgfl1FYOVnc4vnq4W0bT37mSqssct47Ri29fzaiQS9LizQEUZs3Fq3l0V1u71z9SnRW66v/IgNXQWyHFp4Y8p6BY9YmDj0OwK1TrzyMkD5yDz354kF4LMCm1NfV69DGIDhMX9m2+tmbHiQIwiMCL+DYWOSzSVb9M4tJOvQgO+5L2zYiuXc+7Q38GmNW6V400Nw/e+4sCX/uP/Fh4QnwarO2dN64WuSgUlLeDItGd4PcM86KlXRDWxt7hvJQ/TQWE/cRO726YUDeAqAOeoGQuRGiViHDrDqWF1OpSJxzpX/Re6CgYYFb5aulcJBDcoapdkpNAE1Ub3uynJpQl9N97cwtPJa0KOGMlho4pjPU3eVuNlWmFUwLBpH59v6EO"}
 {"key":"荐片","name":"🔪荐片┃磁力","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./js/荐片.js"},
 {"key":"爱迪","name":"💡爱迪┃外剧","type":3,"api":"csp_AppYsV2","ext":"https://aidiapp.xyz/xgapp.php/v2/","jar":"./jar/xyq.jar"},
 {"key": "Alist","name": "️爷回青^O^","type": 3,"api": "http://154.8.204.57:40214/tvbox/libs/alist.min.js","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://154.8.204.57:40214/tvbox/json/alist.json;200;video"},
