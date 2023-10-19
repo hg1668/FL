@@ -66,8 +66,7 @@
 {"key": "csp_淘剧影视","name": "🍁淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
  { "key": "js_菜狗", "name": "🐕️┃菜狗┃大厂",  "type": 3,  "api": "https://jihulab.com/duomv/xduo/-/raw/main/js/drpy2.js", "searchable": 1,"quickSearch": 1,   "filterable": 1, "ext": "https://agit.ai/leevi/duo/raw/branch/master/json/caigou.js" },
 
-{ "key": "49zy", "name": "🗼┃49Z┃2K","type": 1,"api": "https://49zyw.com/api.php/provide/vod/?ac=list", "searchable": 1,"quickSearch": 1,
-"filterable": 1,"changeable": 1, "categories": ["国产剧", "纪录片", "欧美剧","香港剧", "动作片","爱情片,"科幻片", "剧情片","战争片","喜剧片", "动画片","犯罪片","韩国剧", "动漫","电影", "大陆综艺","港台综艺", "日韩综艺","欧美综艺", "台湾剧","国产动漫", "日本动漫",  "欧美动漫",  "泰国剧", "日剧","电影解说", "奇幻片", "灾难片","悬疑片", "其他片", "海外剧" ] },
+
 {"key": "csp_骚火","name": "🔥┃骚火┃电影","type":3,"api":"csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://bitbucket.org/xduo/json/raw/master/骚火电影.json"}
 
 
