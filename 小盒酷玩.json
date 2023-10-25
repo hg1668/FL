@@ -57,23 +57,13 @@
 {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7", "api": "csp_Bili","style": { "type": "rect","ratio": 1.597 }, "searchable": 0,"quickSearch": 0,"changeable": 0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"},
 {"key": "maolv_open","name": "🌻毛驴┃影视","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
 {"key":"ytvip","name":"🍀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
-
+{"key": "光棍影院","name": "光棍影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/光棍影院.js"},
+{"key": "8号影院","name": "8号影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/8号影院.js"},
 
 
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key": "csp_淘剧影视","name": "🍁淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
-{
-        "key": "索尼",
-              "name": "🛸┃索尼┃2K",
-                    "type": 1,
-                          "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
-                                "playUrl": "",
-                                      "searchable": 1,
-                                            "quickSearch": 1,
-                                                  "filterable": 1,
-                                                        "categories": [
-                                                                "国产剧",
-                                                                        "大陆综艺",
+{"key": "索尼","name": "🛸┃索尼┃2K","type": 1,  "api": "https://suoniapi.com/api.php/provide/vod/?ac=list","playUrl": "", "searchable": 1,                    "quickSearch": 1,                          "filterable": 1, "categories": ["国产剧", "大陆综艺",
                                                                                 "动作片",
                                                                                         "国产动漫",
                                                                                                 "喜剧片",
