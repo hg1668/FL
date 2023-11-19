@@ -32,9 +32,6 @@
 {"key": "csp_vs","name": "VSTV‖影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/vs.json"},
 {"key": "348","name": "348‖影视","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
 
-{"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
-{"key": "csp_厂长","name": "🍎主力源","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/厂长.json"},
-
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"},
 {"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
 {"key": "来米","name": "🐼来米┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/来米.json"},
