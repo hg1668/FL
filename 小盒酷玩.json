@@ -15,7 +15,7 @@
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 
 {"key": "49zy","name": "🗼┃49Z┃2K", "type": 1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1,  "filterable": 1,"changeable": 1, "categories": ["国产剧", "纪录片","欧美剧","香港剧", "动作片","爱情片","科幻片", "恐怖片","剧情片","战争片","喜剧片","动画片", "犯罪片","韩国剧", "动漫", "电影","大陆综艺","港台综艺", "日韩综艺","欧美综艺", "台湾剧","国产动漫","日本动漫", "欧美动漫","泰国剧",  "日剧","电影解说", "奇幻片","灾难片","悬疑片", "其他片","体育赛事","海外剧"  ] },
-{"key": "蚂蚁","name": "🐜┃蚂蚁┃4K","type": 3,"jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar","api": "csp_XPathAli","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/蚂蚁磁力.json" },
+ {"key": "xgapp","name": "🏠追剧┃西瓜","type":3,"playerType":2,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.gsjtlxy.top/xgapp.php/v3/" },
 {"key": "csp_XBPQ_6V","name": "4k┃影音┃天堂", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"},
 {"key": "csp_圣城", "name": "🏰┃圣城┃2K","type": 3,"jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json" },
 
@@ -61,7 +61,7 @@
 {"key":"腾讯","name":"⭕官方┃资源","type":3,"api":"./lib/drpy2.min.js","ext":"./js/tengxun.js"},
 {"key": "csp_淘剧影视","name": "🍁淘剧┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/淘剧影院.json"},
 { "key": "索尼","name": "🛸┃索尼┃2K", "type": 1, "api":"https://suoniapi.com/api.php/provide/vod/?ac=list", "playUrl": "", "searchable": 1, "quickSearch": 1,  "filterable": 1, "categories": [ "国产剧","大陆综艺","动作片", "国产动漫",  "喜剧片", "爱情片",  "科幻片",  "恐怖片", "剧情片","战争片", "欧美剧",   "韩剧",  "日剧", "港剧","台剧", "泰剧",  "记录片",  "海外剧",  "日韩综艺","港台综艺",  "欧美综艺","足球", "影视解说"  ]   },
-{ "key": "觅视频","name": "🍯┃觅视┃2K","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;60a9856a6deb7dcff27f3056626bbb5a", "api": "csp_AppSK","searchable": 1,  "quickSearch": 1, "changeable": 1, "ext": "FbjPcVZY48PN/RIZ5UWFro5tctBJAZhIEz5OvLqy0VZGH5/R/mCR2kPI46ezGyKoem+Vym4tmTJ5Gio/CM0pPlNKXd+d2hTULzhB0SoYmLd4" },
+
 {"key": "csp_蛋蛋",  "name": "🥚蛋蛋┃剧场", "type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蛋蛋.json" },
  {"key": "相声小品","name": "相声小品","type": 3, "api": "csp_Bili","searchable": 0,"quickSearch": 1, "filterable": 1,"ext": "./lib/哔哩相声.json"},
 
