@@ -6,7 +6,7 @@
 "sites":[
 
 {"key": "豆瓣","name": "何杰专属","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
-  {"key": "玉米",  "name": "🌽玉米┃切片","type":0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/","playUrl":"json:https://www.qiaoji8.com/tvbox/json.php?url=",  "searchable": 1,  "quickSearch": 1,"filterable": 1},
+   {"key": "玉米", "name": "玉米┃App", "type": 0,"api":"http://124.222.116.5/macos/api.php/provide/vod/at/xml/", "searchable": 1, "playerType": 2, "quickSearch": 1, "filterable": 1},
 { "key": "yqkan_open", "name": "🛁┃一起┃2K","type": 3, "api": "csp_YQKan",  "searchable": 1,  "quickSearch": 1,"filterable": 0,"jar":"https://ghproxy.com/raw.githubusercontent.com/zalman2022/MySpider/main/jar/OpenSpider.jar"  },
 { "key": "js_nangua", "name": "🎬影视 | 南瓜","type": 3, "api": "./lib/drpy2.js", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/nangua.js"},
 {"key":"星星","name":"⭐星星┃TV","type":3,"api":"csp_Appto","playerType":2,"ext":"DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=","jar":"https://jihulab.com/0004/0/-/raw/main/6.txt"},
