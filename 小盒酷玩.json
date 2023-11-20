@@ -19,9 +19,6 @@
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 
 {"key": "49zy","name": "🗼┃49Z┃2K", "type": 1,"api":"https://49zyw.com/api.php/provide/vod/?ac=list","searchable": 1, "quickSearch": 1,  "filterable": 1,"changeable": 1, "categories": ["国产剧", "纪录片","欧美剧","香港剧", "动作片","爱情片","科幻片", "恐怖片","剧情片","战争片","喜剧片","动画片", "犯罪片","韩国剧", "动漫", "电影","大陆综艺","港台综艺", "日韩综艺","欧美综艺", "台湾剧","国产动漫","日本动漫", "欧美动漫","泰国剧",  "日剧","电影解说", "奇幻片","灾难片","悬疑片", "其他片","体育赛事","海外剧"  ] },
-{"key": "csp_XBPQ_6V","name": "4k┃影音┃天堂", "type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/新6v.json"},
-{"key": "csp_圣城", "name": "🏰┃圣城┃2K","type": 3,"jar": "https://jihulab.com/dimaston1/4k/-/raw/main/jar/H.jar","api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/圣城影视.json" },
-
 
 {"key":"csp_XBPQ_haoxi","name": "🍎┃好戏┃2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json" },
  
@@ -33,25 +30,22 @@
 {"key": "348","name": "348‖影视","type": 3,"api": "csp_XBPQ","ext":"./json/348.json"},
 
 {"key": "bei", "name": "🗻北川┃影视", "type": 3, "api": "csp_XBPQ", "ext":"./json/北川.json"},
-{"key": "萌猫","name": "🐼萌猫┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/萌猫.json"},
-{"key": "来米","name": "🐼来米┃影视","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/来米.json"},
 
 {"key": "Aid","name": "🚑┃急救┃教学","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
 {"key":"csp_乐猪","name":"🐷乐猪┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/乐猪.json"},
 {"key":"子子影视","name":"➰子子┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/子子.json"},
-{"key":"热播之家","name":"🔥热播┃之家","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/热播.json","jar":"./jar/xyq.jar"},
 
 {"key": "007","name": "🎈007┃影视","type": 3,"api": "csp_XBPQ","ext": "./json/007影视.json"},
 {"key": "csp_花猫","name": "🐱花猫┃TV","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/花猫.json"},
 {"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
  
  
-{"key": "csp_AucFox", "name": "📽️AucFox┃BPQ","type": 3 ,"api": "csp_XBPQ", "ext": {"站名":"AucFox影视", "主页url": "https://www.aucfox.fun/","分类": "电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi#纪录片$jilupian#体育$tiyu",  "分类url":"https://www.aucfox.fun/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html"}},
+
 {"key": "兄弟","name":"🐈‍兄弟|XP","type":3,"api":"./lib/drpy2.min.js","ext":"./js/兄弟影视.js"},
 {"key": "初中课堂","name": "📚初中┃课堂","type": 3,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7", "api": "csp_Bili","style": { "type": "rect","ratio": 1.597 }, "searchable": 0,"quickSearch": 0,"changeable": 0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"},
-{"key": "maolv_open","name": "🌻毛驴┃影视","type": 3,"playerType": 1,"api": "csp_Maolv","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 1,"jar": "./jar/ML.jar"},
+
 {"key":"ytvip","name":"🍀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
 {"key": "光棍影院","name": "光棍影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/光棍影院.js"},
 
