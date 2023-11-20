@@ -15,6 +15,9 @@
 {"key":"csp_干饭","name":"🍨干饭┃TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/干饭.json"},
 {"key":"csp_疯狗","name":"🐶疯狗┃TV","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/疯狗.json"},
 {"key": "酷玩","name": "🎯酷玩┃云盘","type": 3,"api": "csp_Wogg", "searchable": 1,"changeable": 0,"ext": {"token": "8d0c1f989f8c4aa2931f243ea0e7c8b4","filter": "./json/wogg.json"},"jar": "./jar/wogg.jar"},
+{"key":"csp_好戏","name":"🤽好戏┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/好戏.json"},
+{"key":"Cokemv","name":"🥤COKMVE┃影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://cokemv.org/xgapp.php/v3/"},
+{"key":"csp_XBP爱看","name":"👀爱看┃影视","type":3,"api":"csp_XBPQ","jar":"./lib/xbpq.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/爱看.json"},
 {"key": "csp_WoGG","name": "👽玩偶哥哥┃4K",  "type": 3,"api": "csp_WoGG", "searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 
