@@ -15,7 +15,7 @@
 {"key":"csp_好戏","name":"🤽好戏┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/好戏.json"},
 {"key":"蝴蝶","name":"🦋蝴蝶┃影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1","jar": "./jar/pg.nogo.jar"},
 {"key":"NanGua","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar": "./jar/pg.nogo.jar"},
-{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./jar/fty.jar"},
 {"key": "农民","name": "✈️速度流畅何杰经典","type": 3,"api": "csp_XBPQ","playerType": "1","ext": "./json/农民影视.json"},
 {"key":"厂长","name":"🎦厂长┃2K","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.czzy88.com"},
 {"key": "csp_XYQBiu_骚火VIP","name": "🎦骚火VIP","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/shyyVIP.json"},
