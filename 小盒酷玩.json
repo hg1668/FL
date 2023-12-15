@@ -25,9 +25,6 @@
 {"key": "Aid","name": "🚑┃急救┃教学","type": 3,"jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7","api": "csp_FirstAid","searchable": 0,"quickSearch": 0,"changeable": 0,"style": {"type": "rect","ratio": 3.8}},
 {"key": "csp_Free","name": "🌱Free┃影视","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/freeok.json"},
 {"key":"达达龟","name":"🐢达达龟┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./json/达达龟.json"},
-{"key":"电影港","name":"💫电影┃港湾","type":3,"api":"csp_XYQHiker","playerType":"1","ext":"./json/电影港.json","jar":"./jar/xyq.jar"},
-{"key": "初中课堂","name": "📚初中┃课堂","type": 3,"jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;c780fa00cbcc2f49f4e446f225a155e7", "api": "csp_Bili","style": { "type": "rect","ratio": 1.597 }, "searchable": 0,"quickSearch": 0,"changeable": 0,"ext":"https://agit.ai/fantaiying/fty/raw/branch/master/json/初中课堂.json"},
-
 {"key":"ytvip","name":"🍀影探┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://vipcms.lyyytv.cn/api.php/app/","jar":"./jar/YT.jar"},
 {"key": "光棍影院","name": "光棍影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/光棍影院.js"},
 {"key": "csp_蛋蛋",  "name": "🥚蛋蛋┃剧场", "type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蛋蛋.json" },
