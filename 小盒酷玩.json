@@ -15,6 +15,9 @@
 {"key":"玩偶哥哥","name":"👽玩偶哥哥┃4K弹幕","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹","jar": "./jar/fty.jar"},
 {"key":"农民影视","name":"农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nongmin.json"},
 {"key":"csp_xBPQ_疯狗","name":"疯狗┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/fgys.json"},
+{"key": "开心果","name": "🎦开心果┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key":"csp_五五","name":"🎦五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
+{"key":"348影视","name":"🎦348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
 {"key":"csp_XBPQ_haoxi","name": "🍎┃好戏┃2K","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://jihulab.com/dimaston1/4k/-/raw/main/json/好戏.json" },
  
 { "key": "天空资源","name": "🎀天空.云播┃采集","type": 1,  "api": "https://api.tiankongapi.com/api.php/provide/vod/", "searchable": 1,"quickSearch": 1,"playUrl": "","categories": ["国产剧", "剧情片","大陆综艺","动作片" ] },
