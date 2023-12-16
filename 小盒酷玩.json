@@ -78,7 +78,7 @@
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
 
-"spider": "http://小盒酷玩.fun:70/禁止贩卖;md5;19cc25ee10378e8946ef872ec1de2dfe",
+"spider": "./xhkwsvip.jar;md5;c435869db6a928f45df09b736d81f02f",
 
 "wallpaper":"https://tool.weetai.cn/api",
 
