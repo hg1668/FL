@@ -78,14 +78,7 @@
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
-
-"spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-
-
-"lives": [{ "name": "live", "type": 0, "url": "./lib/live.txt"
-, "epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"  }],   
-
+"spider":"./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949","wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302","lives":[{"name":"live","type":0,"url":"./lib/live.txt","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 "rules": [
     {
       "name": "量子",
