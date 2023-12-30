@@ -9,22 +9,19 @@
 {"key":"Wogg","name":"玩偶哥哥|T追剧","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
 {"key":"星奇","name":"🌟星奇┃TV","type":3,"api":"csp_Appto","playerType":2,"ext":"DRKzxyMKvtSwY8KlZf2E0UaodOFwpc55fZ8i/57cIgQJHQLy6PnKLAAj9UrkpoexlNCAomzVttbI6D6TEnlHNVDqRhIQqGlHt8m6PjVxP7PSlmraDar52uqEU7UXaaV+UGqz0bc9q95VVRMK4uX5l674wT+p5Cp2QGr1D24Uz7QNkA6GgkDGW/ezLoYsXUCc7xsDK5ev51cJxn0cIJClFysrOGsTvyLYjYIF2ktu+F36QVcAsAvA6Jpyz2hSTlWadidOt2m81TA5yrfAKjBILuQ63gcnyXh6SH9VjER5dL2KD8iTVBAN3L9TlQqDHPr64N0D6mAldXLMYJM/RrTUznCbIno7V/eTT+YqnLWNekVigNB8Q7Fp3WgMYfk73VYcOqPKO2qwQWyJqaQDW4Uo7nFrQWttqYAwWEDhjM/ABuYLkLX9V83/QFOPkhBJZ+eQoqsiVP3ZugFGB5/XuVZkoYWaG00BRQ3j55vTflJ2ne0WQcFAj6GcYNLodkII4Ji53kVoL+w55Cc9PmtSR1tynlWDylYBfkJbtDOJSuEUKDnKiD/ZFqMAejQFV9EcZr1g6QbLIf/FRldeLYRxsYsWPFc2STqEdgGA+osyO/zzyaeZLH5AJ02l7kKyMxKMPaRF2MGX1DPnZHrbXA4u0A5Vy3M3IMFNZaR0f08C4KDDi1xY=","jar":"http://小盒酷玩.xyz:76/禁止贩卖"},
 {"key":"csp_觅知","name":"觅知‖影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/觅知影视.json"},
-{"key":"csp_光棍","name":"🐣光棍┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/光棍.json"},
 {"key":"酷玩云盘","name":"🎯酷玩┃云盘","type":3,"api":"csp_XiaoZhang","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖$$$null$$$1","timeout":60,"jar": "./禁止贩卖"},
 {"key":"玩偶哥哥","name":"👽玩偶┃云盘","type":3,"api":"csp_Wogg","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://小盒酷玩.fun:71/禁止贩卖$$$https://api.wogg.xyz/$$$null$$$1","timeout":30},
 {"key": "巧技一", "name": "巧技一┃App","type": 3, "api": "csp_qiao2", "playerType": 2, "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar": "./jar/fix1209.jar"},
 { "key": "巧技二","name": "巧技二┃App","type": 3, "api": "csp_qiao2","playerType": 2, "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2","jar": "./jar/fix1209.jar"},
 {"key": "巧技三","name": "巧技三┃App","type": 3,"api": "csp_qiao2", "playerType": 2, "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3","jar": "./jar/fix1209.jar" },
-{"key":"NOAD","name":"🥫NO┃视频","type":3,"api":"csp_XBPQ","jar":"http://小盒酷玩.fun:74/禁止贩卖","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/novip.json"},
 {"key":"js_v2-jrly","name":"📯嘉靓┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/嘉靓.js"},
-{"key":"花海","name":"🌼花海┃影视","api":"csp_AppYs","jar":"http://小盒酷玩.fun:67/禁止贩卖","type":3,"playerType":"2","ext":"http://app.huahai.pro/ruifenglb_api.php/v1.vod"},
 {"key":"996影院","name":"🥅996┃追剧","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0, "jar": "./禁止贩卖"},
 
 
 {"key":"飞云","name":"⛅飞云┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/fy.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"znjson","name":"✂️ZNJ┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/zanzan.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"saoho","name":"🔥骚火┃电影","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
-{"key":"云播","name":"☁️云播┃TV","type":3,"api":"csp_XBPQ","jar":"http://小盒酷玩.fun:74/禁止贩卖","ext":"./lib/云播.json"},
+
 {"key":"csp_好戏","name":"🤽好戏┃影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/好戏.json"},
 {"key":"蝴蝶","name":"🦋蝴蝶┃影视","type":3,"api":"csp_Hudie","playerType":2,"ext":"https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b$$$null$$$1","jar": "./jar/pg.nogo.jar"},
 {"key":"NanGua","name":"🎃南瓜┃影视","type":3,"api":"csp_NanGua","searchable":1,"changeable":1,"ext":"null$$$1","jar": "./jar/pg.nogo.jar"},
