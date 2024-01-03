@@ -28,6 +28,7 @@
 {"key":"农民影视","name":"农民┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/nongmin.json"},
 
 {"key": "开心果","name": "🎦开心果┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/","jar": "./jar/ttkx.jar"},
+{"key":"yt","name":"APP|影探","type":3,"api":"csp_App","searchable":1,"quickSearch":1,"filterable":0,"ext":"yttoken#ytvip.lyyytv.cn#2.2.231017","jar": "./jar/YSZYZ.jar"},
 {"key":"土豪影视","name":"🎦土豪┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuhaoys.json"},
 
 {"key": "骑骑","name": "🎦骑骑┃2K","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/","jar": "./jar/ttkx.jar"},
