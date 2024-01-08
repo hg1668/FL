@@ -21,7 +21,7 @@
 {"key":"巧技四","name":"巧技四┃App","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4","jar": "./jar/fix1209.jar"},
 {"key":"js_v2-jrly","name":"📯嘉靓┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/嘉靓.js"},
 {"key":"996影院","name":"🥅996┃追剧","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0, "jar": "./禁止贩卖"},
-
+{"key": "csp_XYQBiu_骚火VIP","name": "骚火VIP","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://atomgit.com/yimeng/ym/raw/master/shyyVIP.json"},
 
 {"key":"飞云","name":"⛅飞云┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/fy.js","searchable":1,"quickSearch":1,"changeable":0},
 {"key":"znjson","name":"✂️ZNJ┃切片","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/zanzan.js","searchable":1,"quickSearch":1,"changeable":0},
