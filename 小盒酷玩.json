@@ -84,8 +84,9 @@
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩"],
 
-"spider": "./jar/xhkw0104.jar",
-  "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php","lives":[{"name":"live","type":0,"url":"http://tvkj.top/七星IPTV.txt","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
+"spider": "./xhkw0104.jar;md5;ad62a4c79debb54123efff55726e92e3",
+  "wallpaper": "http://xn--sss604efuw.top/%E6%B7%B1%E8%89%B2%E5%A3%81%E7%BA%B8/api.php",
+  "lives":[{"name":"live","type":0,"url":"http://tvkj.top/七星IPTV.txt","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 "rules": [
     {
       "name": "量子",
