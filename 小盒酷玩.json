@@ -59,6 +59,7 @@
 {"key": "csp_蛋蛋",  "name": "🥚蛋蛋┃剧场", "type": 3,"api": "csp_XBPQ", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蛋蛋.json" },
  {"key": "相声小品","name": "相声小品","type": 3, "api": "csp_Bili","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "./lib/哔哩相声.json","jar":"./jar/XYQ.jar"},
 {"key": "健身","name": "📚广场舞","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/健身.json?sign=M9Yy0JDj_uwsAsiHY0YChEk27S55kj30rdi_3zU7Nb4=:0","jar":"./jar/XYQ.jar"},
+{"key":"UpYun","name":"UP搜😻网盘","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"},
 {"key": "七夜","name": "4KHDR站-备用1", "type": 3, "api": "csp_Dovx","searchable": 1,"quickSearch": 1, "changeable": 0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan1104.jar"},
 { "key": "PanSearch", "name": "4KHDR站-备用4", "type":3,"api":"csp_PanSearch","searchable": 1,"quickSearch": 1, "changeable": 0,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd","jar": "./jar/fan1104.jar"},
 {"key":"xb小纸条","name":"📑纸条┃网盘","type":3,"api":"csp_XiaoZhiTiao","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖","timeout":60,"jar": "./禁止贩卖"},
