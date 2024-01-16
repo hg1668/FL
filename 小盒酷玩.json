@@ -68,7 +68,7 @@
 {"key":"DaPanSo","name":"🛰️大盘┃网盘","type":3,"api":"csp_DaPanSo","quickSearch":1,"changeable":1,"filterable":1,"timeout":30,"ext":"http://小盒酷玩.xyz:71/禁止贩卖$$$https://dapanso.com$$$null","jar": "./禁止贩卖"},
 {"key":"夸克盘搜","name":"🧿夸克┃网盘","type":3,"api":"csp_QuarkPanso","changeable":0,"searchable":1,"quickSearch":1,"filterable":0,"ext":"http://小盒酷玩.xyz:71/禁止贩卖","timeout":60,"jar": "./禁止贩卖"},
 {"key":"Gitcafe","name":"🔍阿里|小纸条","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
-{"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd"}
+{"key": "UpYun","name": "📫Up┃云盘","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
