@@ -23,7 +23,10 @@
 {"key":"巧技一","name":"巧技一app","type":3,"api":"csp_Appto","playerType":2,"ext":"jcbGfBFTLE/g7UuIn1HSavpotQpA+bwMVMgQuwS6zrHSz7HETtjsvfuNDux38GeHCgyd3knvuLeuFNM41o7GgDX3XyorlWoPZRIT84WdDkS1qS0z2s8xH+sTRcn6jRmyz9IbzuXJFYOLLU9ISgZPf6ieCH5K5feMnAc53eA1sAe+LCkTtUbOlc+ldYukFIFbKxPksMAFEntUO8HFMYWbu9iLXgu/lSPBZYJ4N9CdA4unhhcLxFAANMLpVPSd9/CW//DtarKOyGCCusWiu8NL6nl2X+3ayZ9UNf5yZ1iNv5yhyqk37ypPl4hgalEJoIhI4luL6PfIRx2pJvoDOVROj3oieDaygpzX79f1zsM+B1zf+pS+fsVDArMXYvJReIv4X66R5CWGxLGKdNbl+WUgL1B9FY6cqtbziIWHtkbquvlgQManGJml1Ir94uFVYlVfz3ZYxytOBDzDI8EWZCQPGCD8+eW48XjspOf0GGp/Od9CLJKTzZSzJyQiNX0PCkPymDmddAmPc7P0A70m6kPNUupRgz5UxGyU8+nHD4VnF6UDhovgHc8bgTFfAKm/Uyio9+fTsDpIhYmdt2Qn9MHhGHlpUUlYY4sCbObWuAI+SiQpaAi2myzxqC4ulfeMeb2vPOMDfd08IxmGKYWaAszyY1494BkCqRjvCRHJUNfVzO6A=","jar": "./jar/pg.jar"},
 {"key":"影视二","name":"影视二","type":3,"api":"csp_Movie2","ext":"./lib/movie2","jar":"./jar/spider.jar"},
 {"key":"河马","name":"河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
-
+{"key":"影视三","name":"影视三","type":3,"api":"csp_Movie3","ext":"./lib/movie3","jar":"./jar/spider.jar"}
+,
+{"key":"影视四","name":"影视四","type":3,"api":"csp_Movie4","ext":"./lib/movie4","jar":"./jar/spider.jar"},
+{"key":"影视五","name":"影视五","type":3,"api":"csp_Movie5","ext":"./lib/movie5","jar":"./jar/spider.jar"},
 {"key":"996影院","name":"🥅996┃追剧","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0, "jar": "./禁止贩卖"},
 
 {"key":"影视工厂","name":"工厂┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/yingshigongchang.json","jar": "./jar/ttkx.jar"},
