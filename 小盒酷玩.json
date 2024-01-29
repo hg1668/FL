@@ -97,7 +97,7 @@
 
 "spider": "./HeChengChaXiu.jar",
     "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "lives":[{"name":"live","type":0,"url":"http://tvkj.top/七星IPTV.txt","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
+  "lives":[{"name":"live","type":0,"url":"https://wds.ecsxs.com/230864.json","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 "rules": [
     {
       "name": "量子",
