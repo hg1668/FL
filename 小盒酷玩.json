@@ -17,7 +17,7 @@
 {"key": "玩我哥哥","name":"🎦玩我|哥哥","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/玩我哥哥.json","jar":"./jar/ttkx.jar"},
 {"key":"开心HK影视","name":"🎦开心HK影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心HK影视.json"},
 {"key":"开心影视","name":"🎦开心影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/开心影视.json"},
-{"key":"影视一","name":"影视一","type":3,"api":"csp_Movie2","ext":"./lib/movie1","jar":"./jar/spider.jar"},
+{"key":"影视一","name":"影视一","type":3,"api":"csp_Movie2","ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1","jar":"./jar/spider.jar"},
 {"key":"影视二","name":"影视二","type":3,"api":"csp_Movie2","ext":"./lib/movie2","jar":"./jar/spider.jar"},
 {"key":"河马","name":"河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
 {"key":"影视三","name":"影视三","type":3,"api":"csp_Movie2","ext":"./lib/movie3","jar":"./jar/spider.jar"}
