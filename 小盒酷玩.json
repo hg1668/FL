@@ -24,7 +24,7 @@
 ,
 {"key":"影视四","name":"影视四","type":3,"api":"csp_Movie2","ext":"./lib/movie4","jar":"./jar/spider.jar"},
 {"key":"影视五","name":"影视五","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/spider.jar"},
-{"key":"996影院","name":"🥅996┃追剧","type":3,"api":"csp_Cs1369","searchable":1,"changeable":0, "jar": "./禁止贩卖"},
+
 {"key":"云播","name":"云播","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/云播","jar":"./jar/spider.jar"},
 
 { "key": "良人影视", "name": "良人💖App", "type": 3, "api": "csp_qiao", "jar": "https://jihulab.com/0004/c/-/raw/main/j.txt?ref_type=heads","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"},
