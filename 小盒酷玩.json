@@ -17,12 +17,6 @@
 {"key":"csp_Bdys","name":"🎦哔嘀影视","type":3,"api":"csp_Bdys","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
 {"key":"csp_Kuaikan","name":"🎦快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
 {"key":"河马","name":"河马┃App","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
-{"key":"影视三","name":"影视三","type":3,"api":"csp_Movie2","ext":"./lib/movie3","jar":"./jar/spider.jar"}
-,
-{"key":"影视四","name":"影视四","type":3,"api":"csp_Movie2","ext":"./lib/movie4","jar":"./jar/spider.jar"},
-{"key":"影视五","name":"影视五","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/spider.jar"},
-
-{"key":"云播","name":"云播","type":3,"api":"csp_Skapp","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/云播","jar":"./jar/spider.jar"},
 {"key":"酷看","name":"💡酷看┃App","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"changeable":1,"jar":"./jar/fty.jar"},
 {"key":"Czsapp","name":"📔厂长┃直连","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.czzy55.com/","jar":"./jar/fty.jar"},
 {"key":"csp_厂长","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@荷城茶秀"},
