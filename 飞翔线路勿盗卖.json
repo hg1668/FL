@@ -294,17 +294,6 @@
       "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
     },
     {
-      "key": "MV",
-      "name": "MV影堂③",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/Bili.json",
-      "jar": "https://download.kstore.space/download/2883/nzk/0819.jar;md5;380A08E7735A86D85AAA24E9A1C77AF3"
-    },
-    {
       "key": "dr_JRKAN直播",
       "name": "JRAN直播影赛④",
       "type": 3,
