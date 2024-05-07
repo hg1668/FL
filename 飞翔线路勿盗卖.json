@@ -2255,8 +2255,7 @@
 ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/演唱会.json"},
 {"key": "戏曲","name": "戏曲合集(机顶盒 电脑 电器维护13707488633)
 ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/戏曲合集.json"}, 
-{"key": "合集","name": "哔哩合集(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/合集.json"},
+{"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/合集.json"},
 {"key": "美食","name": "美食(机顶盒 电脑 电器维护13707488633)
 ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/美食.json"},
 {"key": "学堂","name": "学堂教育(机顶盒 电脑 电器维护13707488633)
@@ -2293,8 +2292,7 @@
 ","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童编程.json"},
 {"key":"儿童武术","name":" 儿童｜武术(机顶盒 电脑 电器维护13707488633)
 ","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童武术.json"},
-{"key":"樱花动漫","name":"樱花┃动漫(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
+{"key":"樱花动漫","name":"樱花┃动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
 {"key":"csp_厂长","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@荷城茶秀"},
 {"key": "球类","name": "⚽球类合集(机顶盒 电脑 电器维护13707488633)
 ","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/球类合集.json"},
