@@ -37,6 +37,87 @@
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
 {"key":"土豪影视","name":"🎦土豪┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuhaoys.json"},
 
+ {
+      "key": " 大师兄",
+      "name": "🐒大师兄",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://gzy.3.hk3.345123.xyz/json/xyq.jar",
+      "ext": {
+        "副标题": "公子专属",
+        "搜索url": "https://dsxys.pro/sb/kemksmaksdl7nhZe3c1-.html?wd={wd}",
+        "分类url": "https://dsxys.pro/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "1&2&3&4"
+      }
+    },
+ {
+      "key": "djyy",
+      "name": "🆙顶级影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://gzy.3.hk3.345123.xyz/json/xyq.jar",
+      "ext": {
+        "副标题": "公子专属",
+        "主页url": "https://www.topmovie.cc/",
+        "简介": "module-info-introduction\">&&ⓒ顶级电影",
+        "影片类型": "tag-link\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>[排序:三网>>专线>>备用]",
+        "线路标题": "<span>&&<+共+<small>&&+集[不包含:海外专线#备用-2#官方专线#官方#专线1#专线2#三网专线]",
+        "分类url": "/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html",
+        "分类": "电影$1#剧集$2#综艺$3#记录$4#体育$24#短剧$26#动漫$28"
+      }
+    },
+ {
+      "key": "jikemovie",
+      "name": "🐔极客影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://gzy.3.hk3.345123.xyz/json/xyq.jar",
+      "ext": {
+        "副标题": "公子专属",
+        "站名": "极客影视",
+        "主页url": "https://www.jkdy.cc/",
+        "搜索url": "https://www.jkdy.cc/search/{wd}----------{pg}---.html",
+        "播放数组": "class=\"hl-plays-list&&</ul>",
+        "播放标题": ">&&</a>",
+        "播放链接": "href=\"&&\"",
+        "播放列表": "<li&&</li>",
+        "分类url": "https://www.jkdy.cc/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;d0",
+        "分类": "电影$1#电视剧$2#综艺$3#动漫$4"
+      }
+    },
+ {
+      "key": "love剧",
+      "name": "👩‍❤️‍💋‍👨爱跟剧",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://gzy.3.hk3.345123.xyz/json/xyq.jar",
+      "ext": {
+        "副标题": "公子专属",
+        "发布地址": "fabu.timiys.vip",
+        "简介": "vod_content\">&&</span>",
+        "线路数组": "module-tab-item tab-item&&</div>",
+        "线路标题": "<span>&&</span>+共+<small>&&</small>+集",
+        "跳转播放链接": "urlDecode(var player_*url\":\"&&\")",
+        "搜索url": "/vodsearch/{wd}-------------.html",
+        "分类url": "https://www.52gen.vip/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$dianying#连续剧$lianxuju#动漫$dongman#综艺$zongyi#纪录片$jilupian#短剧$duanju#音乐$yinyue"
+      }
+    },
+ {
+      "key": "csp_xml_U酷资源",
+      "name": "🈶U酷影视",
+      "type": 1,
+      "api": "https://api.ukuapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+
 {"key":"csp_MeiJu69","name":"🗽69美剧[SP]","api":"csp_AppYsV2","type":3,"m3u8ads": "hd.youyhn.com","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://www.69mj.com/xgapp.php/v2/"},
 {"key":"csp_陌陌","name":"🍄MXONE[V2]","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.kuin.one/api.php/app/"},
 {"key":"drpy_网飞","name":"⛔网飞TV[DR]","type":3,"api":"./TVB/DRPY/libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://9xi4o.link/TVB/drpyjs/网飞.TV.js"},
