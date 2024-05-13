@@ -259,16 +259,6 @@
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/网飞TV.js"
     },
 {
-      "key": "好戏影视",
-      "name": "好戏｜影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/好戏影视.json"
-    },
-    {
       "key": "蛋蛋影视",
       "name": "蛋蛋｜影视",
       "type": 3,
@@ -278,6 +268,17 @@
       "filterable": 1,
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/蛋蛋影视.json"
     }, 
+  {
+      "key": "子子影视",
+      "name": "子子｜影视",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/子子影视.json"
+    },
+
 
 
 
