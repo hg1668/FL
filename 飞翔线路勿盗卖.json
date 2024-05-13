@@ -129,6 +129,75 @@
       "filterable": 1,
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy1.json"
     },
+ {
+      "key": "🔱｜专线⑨🏅",
+      "name": "🔱｜专线⑨🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy4.json"
+    },
+    {
+      "key": "🔱｜专线⑩🏅",
+      "name": "🔱｜专线⑩🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy5.json"
+    },
+    {
+      "key": "🔱｜专线⑪🏅",
+      "name": "🔱｜专线⑪🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy6.json"
+    },
+    {
+      "key": "🔱｜专线⑫🏅",
+      "name": "🔱｜专线⑫🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy7.json"
+    },
+    {
+      "key": "🔱｜专线⑬🏅",
+      "name": "🔱｜专线⑬🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy8.json"
+    },
+    {
+      "key": "🔱｜专线⑭ 🏅",
+      "name": "🔱｜专线⑭ 🏅",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/hjys.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/hjzy10.json"
+    },
+
+
+
 
 
 { "key": "挂影院", "name": "💠听听影院", "type": 1, "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "categories": [  "动作片", "喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片", "国产剧", "香港剧", "韩国剧", "欧美剧", "记录片", "台湾剧", "日本剧", "海外剧", "泰国剧", "大陆综艺", "港台综艺", "日韩综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "港台动漫", "海外动漫", "电影解说", "足球", "篮球", "网球", "斯诺克", "预告片" ] }, 
