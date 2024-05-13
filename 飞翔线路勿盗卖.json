@@ -3082,7 +3082,7 @@
  
  {
       "key": "meowtv_etqm",
-      "name": "儿童┃启蒙(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳儿童┃启蒙(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
       "searchable": 0,
@@ -3092,7 +3092,7 @@
     },
     {
       "key": "meowtv_dtgx",
-      "name": "灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
@@ -3103,7 +3103,7 @@
     },
     {
       "key": "meowtv_sejy",
-      "name": "少儿┃教育(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳少儿┃教育(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
@@ -3114,7 +3114,7 @@
     },
     {
       "key": "meowtv_xxkt",
-      "name": "小学┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳小学┃课堂(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
@@ -3125,7 +3125,7 @@
     },
     {
       "key": "meowtv_czkt",
-      "name": "初中┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳初中┃课堂(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
@@ -3136,7 +3136,7 @@
     },
     {
       "key": "meowtv_gzkt",
-      "name": "高中┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "name": "🇨🇳高中┃课堂(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "csp_Bili",
       "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
