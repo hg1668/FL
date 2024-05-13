@@ -3079,6 +3079,74 @@
 {"key":"py_返老还童","name":"🇨🇳动漫┃PY","type":3,"api":"py_kt30","searchable":1,"quickSearch":0,"filterable":0,"ext":"http://o.nxog.top/m/py/py_kt30.json"},
 {"key":"py_cctv","name":"🇨🇳央视片库┃PY","type":3,"api":"py_cctv","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://o.nxog.top/m/py/py_cctv.json"}, 
 {"key":"csp_可可","name":"🐛可可影视","type":3,"jar":"./jar/spider1.jar","api":"csp_Panda","ext":{"请求头":"User-Agent@Mozilla/5.0 (Linux；； Android 11；； Mi 10 Pro) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.152 Mobile Safari/537.36","数组":"class=\"module-item\">&&</div>","标题":"title=\"&&\"","链接前缀":"https://www.keke9.app","图片":"https://150.109.69.134:5001+original=\"&&\"","链接":"href=\"&&\"","副标题":"<span&&</span>","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索图片":"https://150.109.69.134:5001+original=\"&&\"","搜索模式":"1","搜索url":"https://www.keke9.app/search?os=pc&k={wd}","线路数组":" class=\"source-item\">&&</a>","播放数组":"class=\"episode-list&&</div>","播放链接":"href=\"&&\"","分类url":"https://www.keke9.app/show/{cateId}-{class}-{area}-{lang}-{year}-{by}-{catePg}.html","分类":"电影$1#剧集$2#动漫$3#综艺纪录$4#短剧$6"}},
+ 
+ {
+      "key": "meowtv_etqm",
+      "name": "儿童┃启蒙(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/api/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/启蒙.js"
+    },
+    {
+      "key": "meowtv_dtgx",
+      "name": "灯塔┃国学(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/国学.json"
+    },
+    {
+      "key": "meowtv_sejy",
+      "name": "少儿┃教育(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/儿童.json"
+    },
+    {
+      "key": "meowtv_xxkt",
+      "name": "小学┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/小学.json"
+    },
+    {
+      "key": "meowtv_czkt",
+      "name": "初中┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/初中.json"
+    },
+    {
+      "key": "meowtv_gzkt",
+      "name": "高中┃课堂(机顶盒 电脑 电器维护13707488633)",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/qrh/meow1.jar;md5;D1115D99527D75948D095085B1407ADD",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/js/高中.json"
+    }
+  ],
+
 {"key": "合集","name": "💋合集","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/合集.json"},
 {"key": "相声小品","name": "相声小品(机顶盒 电脑 电器维护13707488633)
 ","type": 3, "api": "csp_Bili","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "./lib/哔哩相声.json","jar":"./jar/XYQ.jar"},
