@@ -3174,46 +3174,50 @@
       "changeable": 0,
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/bilibili.js"
     },
+
+
 {"key": "演唱会","name": "演唱会(机顶盒 电脑 电器维护13707488633)
 ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/演唱会.json"}, 
 {"key": "戏曲","name": "戏曲合集(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/戏曲合集.json"}, 
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/戏曲合集.json"}, 
 {"key": "美食","name": "美食(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://o.nxog.top/m/Bilibili/美食.json"},
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/美食.json"},
 {"key": "学堂","name": "学堂教育(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"http://1.a.xn--dkw.xn--6qq986b3xl/m/Bilibili/学堂教育.json"},
+","type": 3,"api": "csp_Bili","searchable":0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/学堂教育.json"},
 {"key": "少儿","name": "少儿合集(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://1.a.xn--dkw.xn--6qq986b3xl/m/Bilibili/少儿合集.json"},
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/少儿合集.json"},
 {"key": "小学课堂","name": "小学课堂(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://1.a.xn--dkw.xn--6qq986b3xl/m/Bilibili/小学课堂.json"},
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/小学课堂.json"},
 {"key": "初中课堂","name": "初中课堂(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://1.a.xn--dkw.xn--6qq986b3xl/m/Bilibili/初中课堂.json"},
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/初中课堂.json"},
 {"key": "高中课堂","name": "高中课堂(机顶盒 电脑 电器维护13707488633)
-","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"http://1.a.xn--dkw.xn--6qq986b3xl/m/Bilibili/高中课堂.json"},
+","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/高中课堂.json"},
 {"key":"小灯塔科学","name":"小灯塔科学(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔科学.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/小灯塔科学.json"},
 {"key":"小灯塔地理","name":"小灯塔地理(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔地理.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/小灯塔地理.json"},
 {"key":"小灯塔百科","name":"小灯塔百科(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔百科.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/小灯塔百科.json"},
 {"key":"小灯塔国学","name":"小灯塔国学(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/小灯塔国学.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/小灯塔国学.json"},
 {"key":"儿童口才","name":" 儿童｜口才(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童口才.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童口才.json"},
 {"key":"儿童拼音","name":" 儿童｜拼音(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童拼音.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童拼音.json"},
 {"key":"儿童识字","name":" 儿童｜识字(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童识字.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童识字.json"},
 {"key":"儿童思维","name":" 儿童｜思维(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童思维.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童思维.json"},
 {"key":"儿童英语","name":" 儿童｜英语(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童英语.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童英语.json"},
 {"key":"儿童硬笔","name":" 儿童｜硬笔(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童硬笔.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童硬笔.json"},
 {"key":"儿童编程","name":" 儿童｜编程(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童编程.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童编程.json"},
 {"key":"儿童武术","name":" 儿童｜武术(机顶盒 电脑 电器维护13707488633)
-","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://o.nxog.top/m/Bilibili/儿童武术.json"},
+","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://notabug.org/FX520/FX/raw/main/lib/儿童武术.json"},
+
+
 {"key":"樱花动漫","name":"樱花┃动漫","type":3,"api":"csp_XBPQ","ext":"分类url:https://www.857yhdm.com/show/{cateId}--{by}------{catePg}---{year}.html,分类:日本动漫$ribendongman#国产动漫$guochandongman#动漫电影$dongmandianying#欧美动漫$omeidongman"},
 
 {"key":"csp_厂长","name":"🅱️厂长影视|T追剧","type":3,"api":"csp_CsCz","searchable":1,"changeable":1,"ext":"https://bo.czys.me@@荷城茶秀"},
