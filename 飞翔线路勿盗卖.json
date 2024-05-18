@@ -37,55 +37,113 @@
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
 {"key":"土豪影视","name":"🎦土豪┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuhaoys.json"},
 
-{
-      "key": "火狐",
-      "name": "火狐云",
-      "type": 1,
-      "style": {
-        "type": "rect",
-        "ratio": 0.8
-      },
-      "api": "https://hhzyapi.com/api.php/provide/vod/?ac=list",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "categories": [
-        "动作片",
-        "喜剧片",
-        "爱情片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "悬疑片",
-        "犯罪片",
-        "奇幻片",
-        "记录片",
-        "动画片",
-        "伦理片",
-        "内地剧",
-        "香港剧",
-        "台湾剧",
-        "日剧",
-        "韩剧",
-        "欧美剧",
-        "马泰剧",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "中国动漫",
-        "日本动漫",
-        "欧美动漫"
-      ]
-    },
     {
       "key": "394",
       "name": "394云",
       "type": 0,
       "api": "https://www.394tv.com/api.php/provide/vod/at/xml"
     },
-
+ {
+      "key": "异世界",
+      "name": "异界云",
+      "api": "csp_AppYsV2",
+      "type": 3,
+      "ext": "http://ysjtv.yy365.vip/api.php/app/"
+    },
+  {
+      "key": "极速",
+      "name": "极速云",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/from/jsm3u8",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "灾难片",
+        "悬疑片",
+        "犯罪片",
+        "奇幻片",
+        "动画片",
+        "中国动漫",
+        "日本动漫",
+        "欧美动漫",
+        "内地剧",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "韩剧",
+        "日剧",
+        "马泰剧",
+        "伦理片",
+        "体育赛事",
+        "大陆综艺",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+ {
+      "key": "淘片",
+      "name": "淘片云",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+ {
+      "key": "轻简",
+      "name": "轻简云",
+      "type": 1,
+      "api": "http://1.ahailove.cn:23456/cj/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "电影",
+        "电视剧",
+        "综艺",
+        "动漫"
+      ]
+    },
+ {
+      "key": "天天",
+      "name": "天天云",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://app.qianju.cc/api.php/v1.vod"
+    },
+{
+      "key": "最大",
+      "name": "最大云",
+      "type": 1,
+      "api": "http://zuidazy.co/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+ {
+      "key": "映迷",
+      "name": "映迷云",
+      "type": 0,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml"
+    },
+    {
+      "key": "奇虎",
+      "name": "奇虎云",
+      "type": 1,
+      "api": "https://caiji.qhzyapi.com/api.php/provide/vod/?ac=list"
+    },
 
  {
       "key": "🔱2.23更新",
