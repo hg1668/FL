@@ -37,6 +37,14 @@
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
 {"key":"土豪影视","name":"🎦土豪┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/tuhaoys.json"},
 
+     {
+      "key": "飘零影院",
+      "name": "飘零影院(聚)",
+      "type": 1,
+      "api": "https://p2100.net/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    }, 
     {
       "key": "394",
       "name": "394云",
