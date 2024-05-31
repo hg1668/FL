@@ -1,4 +1,4 @@
-湖南央视综合,#genre#
+湖南中央视综合,#类型#
 全网影视免费看,http://em.21dtv.com/songs/60061040.mkv
 智能机顶盒,http://uptt.gcwduoduo.com/v/190504/278abc595a9ac1b6cf9acf337b4d3f4f.mp4
 专线13707488633,https://vdse.bdstatic.com//628ca08719cef5987ea2ae3c6f0d2386.mp4
@@ -9,23 +9,23 @@
 凤凰传奇-自由飞翔,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_18747906&response=res&format=mp4&type=convert_url
 
 //收费APP破解
-CCTV1,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv1
-CCTV2,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv2
-CCTV3,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
-CCTV4,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
-CCTV5,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv5
+中央电视台一个,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv1
+中央电视台2套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv2
+中央电视台3套频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv3
+中央电视台4套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv4
+中央电视台5套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv5
 CCTV5+,http://zy.otioi.cn/live/live.php?token=zy-2969297279&id=cctv5p
-CCTV6,http://zy.otioi.cn/live/place.php?id=dypd
-CCTV6,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv6
-CCTV7,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv7
-CCTV8,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv8
-CCTV9,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv9
-CCTV10,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv10
-CCTV11,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv11
-CCTV12,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv12
-CCTV13,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
+中央电视台第六频道,http://zy.otioi.cn/live/place.php?id=dypd
+中央电视台第六频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv6
+中央电视台7套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv7
+中央电视台8套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv8
+中央电视台9套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv9
+中央电视台10频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv10
+中央电视台11频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv11
+中央电视台12套节目,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv12
+中央电视台13频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv13
 CCTV14,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv14
-CCTV15,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv15
+中央电视台15频道,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv15
 贵州卫视,http://zy.otioi.cn/live/place.php?id=gzsws
 贵州卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=gzws
 贵州2,http://zy.otioi.cn/live/place.php?id=gzsgg
@@ -42,8 +42,8 @@ CCTV15,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=cctv15
 七星关,http://p8.vzan.com/slowlive/147077707554082780/live.m3u8
 
 
-黔西南综合,http://zy.otioi.cn/live/place.php?id=qxnzh
-黔西南公共,http://zy.otioi.cn/live/place.php?id=qxngg
+渝西南综合,http://zy.otioi.cn/live/place.php?id=qxnzh
+渝西南公共,http://zy.otioi.cn/live/place.php?id=qxngg
 
 
 安徽卫视,http://zy.otioi.cn/live/live.php?token=OTl3ByOe14&id=ahws
