@@ -36,57 +36,7 @@
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
 
- {
-      "key": "甲子影视",
-      "name": "甲子🌲影视",
-      "type": 3,
-      "api": "csp_Wexjiazitv",
-      "jar": "./lib/jiazi.jar",
-      "playerType": 1,
-      "searchable": 1,
-      "changeable": 1
-    },
   {
-      "key": "小苹果弹幕",
-      "name": "小苹果🍎弹幕",
-      "jar": "./lib/dongchenok.jar",
-      "type": 3,
-      "api": "csp_Xpg",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
-  {
-      "key": "南瓜弹幕",
-      "name": "南瓜🎃弹幕",
-      "type": 3,
-      "api": "csp_Nangua",
-      "jar": "./lib/dongchenok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
- {
-      "key": "天天弹幕",
-      "name": "天天🌱弹幕",
-      "type": 3,
-      "api": "csp_TianTian",
-      "jar": "./lib/dongchenok.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true
-      }
-    },
- {
       "key": "黑木耳资源",
       "name": "木耳🥑蓝光",
       "type": 1,
@@ -123,7 +73,7 @@
         "喜剧"
       ]
     },
-  {
+   {
       "key": "csp_xml_ikun",
       "name": "爱坤🐔蓝光",
       "type": 1,
@@ -168,15 +118,6 @@
       ]
     },
  {
-      "key": "荐片",
-      "name": "荐片🎬蓝光",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/jianpian.js"
-    },
-    {
       "key": "乐视",
       "name": "乐视🏜蓝光",
       "type": 1,
@@ -226,149 +167,6 @@
       ]
     },
  {
-      "key": "苹果",
-      "name": "小苹果🍎蓝光",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "jar": "./lib/xpg.jar",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-  {
-      "key": "量子资源",
-      "name": "量子🥑蓝光",
-      "type": 1,
-      "api": "http://cj.lziapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "国产剧",
-        "国产动漫",
-        "泰国剧",
-        "韩国剧",
-        "短剧",
-        "香港剧",
-        "欧美剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "大陆综艺",
-        "日韩综艺",
-        "欧美综艺",
-        "动作片",
-        "冒险片",
-        "爱情片",
-        "奇幻片",
-        "灾难片",
-        "科幻片",
-        "恐怖片",
-        "剧情片",
-        "战争片",
-        "喜剧片"
-      ]
-    },
-{
-      "key": "新视觉影院",
-      "name": "视觉🔥影院",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/xinshijue.json"
-    },
-{
-      "key": "茶狐影视",
-      "name": "茶狐🍹影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/jqqys.json"
-    },
- {
-      "key": "农民影视",
-      "name": "农民👨‍🌾直连",
-      "type": 3,
-      "api": "csp_WexNmys",
-      "jar": "./lib/nmys.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
-  {
-      "key": "饭团影视",
-      "name": "饭团🍚影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/fantuan.json"
-    },
- {
-      "key": "明日影视",
-      "name": "明日☀影视",
-      "type": 3,
-      "api": "csp_WexMingriys",
-      "jar": "./lib/sp.jar",
-      "searchable": 1,
-      "changeable": 1
-    },
- {
-      "key": "zxzj",
-      "name": "在线🍊外剧",
-      "type": 3,
-      "api": "csp_Zxzj",
-      "jar": "./lib/fan0313.txt",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.zxzja.com/"
-    },
-  {
-      "key": "剧圈影视",
-      "name": "剧圈🔥蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/jqqzx.json"
-    },
- {
-      "key": "利播蓝光",
-      "name": "利播🌕韩剧",
-      "type": 3,
-      "api": "./lib/drpy.min.js",
-      "searchable": 0,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/libvio.js"
-    },
-  {
-      "key": "csp_Kuaikan",
-      "name": "快看🏖直连",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "jar": "./lib/PandaQ240216.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-  {
       "key": "飞刀",
       "name": "飞刀🏂蓝光",
       "type": 1,
@@ -408,81 +206,6 @@
       ]
     },
  {
-      "key": "美柏影视",
-      "name": "美柏🏝蓝光",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "./lib/dongchen.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/meibai.json"
-    },
- {
-      "key": "南瓜影视",
-      "name": "南瓜🎃影视3",
-      "type": 3,
-      "api": "csp_WexNgys",
-      "jar": "./lib/nangua.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-  {
-      "key": "低端影视",
-      "name": "低端⛄影视",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "./lib/diduan.js"
-    },
- {
-      "key": "天天影视",
-      "name": "天天🍦影视",
-      "type": 3,
-      "api": "csp_AppTT",
-      "jar": "./lib/nmys.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
- {
-      "key": "非凡资源",
-      "name": "非凡🌈超清",
-      "type": 1,
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
-      "searchable": 1,
-      "changeable": 1,
-      "categories": [
-        "国产剧",
-        "韩国剧",
-        "泰国剧",
-        "欧美剧",
-        "香港剧",
-        "台湾剧",
-        "日本剧",
-        "海外剧",
-        "国产动漫",
-        "日韩动漫",
-        "欧美动漫",
-        "港台动漫",
-        "海外动漫",
-        "动作片",
-        "喜剧片",
-        "科幻片",
-        "恐怖片",
-        "爱情片",
-        "剧情片",
-        "战争片",
-        "记录片",
-        "大陆综艺",
-        "港台综艺",
-        "日韩综艺",
-        "欧美综艺"
-      ]
-    },
-
-  {
       "key": "歪影🏮秒播",
       "name": "歪影🏮秒播",
       "type": 3,
