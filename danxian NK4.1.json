@@ -7,7 +7,7 @@
 
 {"key": "豆瓣","name": "全网影视免费看(智能机顶盒13707488633)","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 {"key":"csp_南瓜","name":"🅱️南瓜影视(机顶盒 电脑 电器维护13707488633)","type":3,"api":"csp_AppNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
-{"key":"达达龟","name":"🎄达达┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/104.js"}, 
+{"key":"达达龟","name":"🎄达达┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"https://gitee.com/fx520_1/ys/raw/main/json/%E8%BE%BE%E8%BE%BE%E9%BE%9F.json"}, 
 {"key":"csp_Kuaikan","name":"🎦快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
 {"key":"茶杯狐","name":"🎄茶杯┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/102.js"},
 {"key":"畅梦影视","name":"🎄畅梦┃影视","type":3,"api":"http://o.nxog.top/m/js/nxog.js","ext":"http://o.nxog.top/m/js/103.js"},
