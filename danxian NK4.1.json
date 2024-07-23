@@ -68,6 +68,47 @@
         "分类": "电影$dianying#电视剧$juji#综艺$zongyi#动漫$dongman#纪录片$jilupian"
       }
     },
+{"key": "py_cctv","name": "🇨🇳┃央视大全┃影仓(Z240723)","ua": "okhttp/3.15","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/fx520_1/ys/raw/main/lib/cctv.py"},
+
+{"key": "央视经典","name": "🇨🇳┃央视经典┃影视(C240723)","type": 3,"api": "csp_Bili","jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"},
+
+{"key":"py_cctvdc","name":"🇨🇳┃央视片库┃影仓(C240723)","type":3,"api":"py_cctv","jar": "./lib/HeChengChaXiu7.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/tvtg/888/-/raw/main/json/py_cctvdc.json"},
+
+{"key": "天天弹幕版","name": "🇹┃天天蓝光┃弹幕(C240723)","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,
+"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+
+{"key": "南瓜弹幕版","name": "🇹┃南瓜影视┃弹幕(C240723)","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
+
+{"key":"爱奇异","name":"🇹┃奇异官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/aiqiyi.js"},
+
+{"key":"优酷","name":"🇹┃优酷官源┃秒播(Z240723)","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/优酷.js"},
+
+{"key":"腾讯","name":"🇹┃腾讯官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/tengxun.js"},
+
+{"key":"芒果","name":"🇹┃芒果官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/mangguo.js"},
+
+{"key":"搜狗","name":"🇹┃搜狗官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/caigou.js"},
+
+{"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/剧圈圈.json"},
+
+{"key": "优质资源","name": "🇹┃飞龙优质┃秒播(C240723)","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
+"playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
+
+{"key":"348影视","name":"🇹┃三四八源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/348.json"},
+
+{"key":"csp_五五","name":"🇹┃五五影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/55.json"},
+ 
+{"key":"非凡资源","name":"🇹┃非凡影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/ffzy.json"},
+
+{"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/茶狐杯.json"},
+
+{"key": "畅梦","name": "🇹┃畅梦影视┃秒播(Z240723)","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://gitee.com/fx520_1/ys/raw/main/lib/畅梦.js"},
+  
+{"key": "白嫖者","name": "🇹┃白嫖者源┃影视(C240723)","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
+
+{"key":"达达龟","name":"🇹┃达达龟源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/dadagui.json"},
+
 {"key":"河马","name":"河马┃App秒播240713","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
 {"key": "豪华资源","name": "🥬┃豪华┃影视","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories": ["动画片","中国动漫","日本动漫", "欧美动漫", "剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片", "犯罪片", "内地剧","香港剧","欧美剧", "韩剧","日剧", "马泰剧","台湾剧","大陆综艺", "日韩综艺","港台综艺","欧美综艺"] },
 {"key":"火狐","name":"采集 | 火狐","type":1,"api":"https://hhzyapi.com/api.php/provide/vod","searchable":1,"changeable":1,"categories":["电视剧","电影","动漫","综艺"]},  
@@ -2054,7 +2095,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "240713更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "240723更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
@@ -2067,6 +2108,112 @@
       "url": "Sequence"
     },
     {
+      "name": "天微科技",
+      "type": 1,
+      "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
+    },   
+              {
+                "name": "天微解析",
+            "type": 0,
+            "url": "https://www.pangujiexi.com/pangu/?url="
+        },
+    {
+      "name": "天微解析2",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "header": {
+          "user-agent": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/110.0.0.0Safari/537.36Edg/110.0.1587.57"
+        }
+      }
+    },
+    {"name":"天微解析3","type":0,"url":"https://jx.xyflv.cc/?url=","ext":{"header":{"user-agent":"Mozilla/5.0(Linux;Android13;V2049ABuild/TP1A.220624.014;wv)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/116.0.0.0MobileSafari/537.36","referer":"https://www.xyflv.cc/"}}},
+  { "name": "解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ], "header": { "User-Agent": "Dart/2.18 (dart:io)" } }}, 
+{"name": "极速解析", "type": 1, "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url=",
+		"ext":{"flag":["qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SMD",
+                    "YuMi",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                    ],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
+    {
+      "name": "开心",
+      "type": 1,
+      "url": "http://119.91.123.253:2345/Api/yun.php?url="
+    },
+    {
+      "name": "影视",
+      "type": 1,
+      "url": "http://122.228.84.103:7777/api/?key=rSqUtltpbfk1xsQFjz&url="
+    },
+
+ { "name": "解析", "type": 1, "url": "http://119.91.123.253:2345/Api/yun.php?url=", "ext": { "flag": [ "qq", "腾讯", "企鹅", "IQiYi", "qiyi", "爱奇艺", "奇艺", "youku", "YouKu", "优酷", "sohu", "SoHu", "搜狐", "letv", "LeShi", "乐视", "imgo", "mgtv", "MangGuo", "芒果", "SLYS4k", "BYGA", "luanzi", "AliS", "dxzy", "bilibili", "QEYSS", "xigua", "西瓜视频", "腾讯视频", "奇艺视频", "优酷视频", "芒果视频", "乐视视频" ], "header": { "User-Agent": "Dart/2.18 (dart:io)" } }}, 
+{"name": "极速解析", "type": 1, "url": "https://api.json.icu/api/?key=0bfb59b5928233f5665db10ebcade96f&url=",
+		"ext":{"flag":["qq",
+                    "腾讯",
+                    "企鹅",
+                    "IQiYi",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "YouKu",
+                    "优酷",
+                    "sohu",
+                    "SoHu",
+                    "搜狐",
+                    "letv",
+                    "LeShi",
+                    "乐视",
+                    "imgo",
+                    "mgtv",
+                    "MangGuo",
+                    "芒果",
+                    "SMD",
+                    "YuMi",
+                    "luanzi",
+                    "AliS",
+                    "dxzy",
+                    "bilibili",
+                    "QEYSS",
+                    "xigua",
+                    "西瓜视频",
+                    "腾讯视频",
+                    "奇艺视频",
+                    "优酷视频",
+                    "芒果视频",
+                    "乐视视频"
+                    ],"header":{"User-Agent":"Dart/2.18 (dart:io)"}}},  
+{
       "name": "巧技",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
