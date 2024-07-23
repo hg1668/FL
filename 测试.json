@@ -84,7 +84,7 @@
 
 {"key":"爱奇异","name":"🇹┃奇异官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
 
-{"key":"优酷","name":"🇹┃优酷官源┃秒播(Z240723)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷视频.js"},
+{"key":"优酷","name":"🇹┃优酷官源┃秒播(Z240723)","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/优酷.js"},
 
 {"key":"腾讯","name":"🇹┃腾讯官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 
