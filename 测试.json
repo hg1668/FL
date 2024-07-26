@@ -73,46 +73,81 @@
     },
 
 
-{"key": "py_cctv","name": "🇨🇳┃央视大全┃影仓(Z240723)","ua": "okhttp/3.15","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "./lib/cctv.py"},
+{"key": "畅梦","name": "🇹┃畅梦影视┃秒播(Z240723)","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://gitee.com/fx520_1/ys/raw/main/lib/畅梦.js"},
 
-{"key": "央视经典","name": "🇨🇳┃央视经典┃影视(C240723)","type": 3,"api": "csp_Bili","jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
-"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"},
+{"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/茶狐杯.json"},
 
-{"key":"py_cctvdc","name":"🇨🇳┃央视片库┃影仓(C240723)","type":3,"api":"py_cctv","jar": "./lib/HeChengChaXiu7.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/tvtg/888/-/raw/main/json/py_cctvdc.json"},
+{"key":"达达龟","name":"🇹┃达达龟源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/dadagui.json"},
 
 {"key": "天天弹幕版","name": "🇹┃天天蓝光┃弹幕(C240723)","type": 3,"api": "csp_TianTian","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,
 "filterable": 1,"ext": {"danmu": true},"timeout": 10},
 
 {"key": "南瓜弹幕版","name": "🇹┃南瓜影视┃弹幕(C240723)","type": 3,"api": "csp_Nangua","jar": "http://我不是.摸鱼儿.top/by/jar/danmu.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true},"timeout": 10},
 
-{"key":"爱奇异","name":"🇹┃奇异官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+{"key":"爱奇异","name":"🇹┃奇异官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/aiqiyi.js"},
 
 {"key":"优酷","name":"🇹┃优酷官源┃秒播(Z240723)","type":3,"api":"./lib/drpy2.min.js","ext":"https://gitcode.net/zqhfx520/fx/-/raw/main/lib/优酷视频.js"},
 
-{"key":"腾讯","name":"🇹┃腾讯官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
+{"key":"腾讯","name":"🇹┃腾讯官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/tengxun.js"},
 
-{"key":"芒果","name":"🇹┃芒果官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+{"key":"芒果","name":"🇹┃芒果官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/mangguo.js"},
 
-{"key":"搜狗","name":"🇹┃搜狗官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
+{"key":"搜狗","name":"🇹┃搜狗官源┃秒播(Z240723)","type":3,"ua": "okhttp/3.15","api":"./lib/drpy2.min.js","ext":"https://gitee.com/fx520_1/ys/raw/main/lib/caigou.js"},
 
-{"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/剧圈圈.json"},
+{"key":"剧圈圈","name":"🇹┃剧圈影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/剧圈圈.json"},
 
 {"key": "优质资源","name": "🇹┃飞龙优质┃秒播(C240723)","type": 0,"api": "https://api.1080zyku.com/inc/ldg_api.php","searchable": 1,"quickSearch": 1,
 "playurl": "https://vip.zykbf.com/?url=","categories": ["动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","国产剧","台湾片","韩国剧","欧美剧","香港剧","泰国剧","日本剧","福利","纪录片","动画片","海外剧","伦理片","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫","搞笑","音乐","影视","汽车","短剧大全"]},
 
-{"key":"348影视","name":"🇹┃三四八源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
+{"key":"348影视","name":"🇹┃三四八源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/348.json"},
 
-{"key":"csp_五五","name":"🇹┃五五影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
+{"key":"csp_五五","name":"🇹┃五五影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/55.json"},
  
-{"key":"非凡资源","name":"🇹┃非凡影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/ffzy.json"},
-
-{"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"./lib/茶狐杯.json"},
-
-{"key": "畅梦","name": "🇹┃畅梦影视┃秒播(Z240723)","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "./lib/畅梦.js"},
+{"key":"非凡资源","name":"🇹┃非凡影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/ffzy.json"},
   
 {"key": "白嫖者","name": "🇹┃白嫖者源┃影视(C240723)","type": 3,"ua": "okhttp/3.15","api": "csp_XBPQ","ext": {"分类url": "https://www.qyzf88.com/qyvodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3","副标题":"class=\"pic-text text-right\"&&</span>","简介":"⚠️特别提醒您⚠️请勿相信影片中的广告，以免上当受骗❗️+剧情介绍：&&</p >"}},
 
-{"key":"达达龟","name":"🇹┃达达龟源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/dadagui.json"},
+{"key":"酷看","name":"🇹┃酷看影视┃秒播(C240723)","type":3,"api":"csp_Kkys","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1},
+
+{"key":"美柏","name":"🇹┃美柏影视┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/美柏.json"},
+
+{"key": "360","name": "🇹┃飞龙秒播┃影视(C240723)","type": 1,"api": "https://360zy.com/api.php/provide/vod?","searchable": 1,"changeable": 1,"categories": [
+"动作片","战争片","恐怖片",    "喜剧片","爱情片","科幻片","剧情片","古装片","悬疑片","犯罪片","灾难片","国产剧","香港剧","韩国剧","欧美剧","台湾剧","日本剧","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","欧美动漫","日韩动漫","现代都市","脑洞悬疑","年代穿越","古装仙侠","女频恋爱","成长逆袭","反转爽剧"]},
+
+{"key":"苹果","name":"🇹┃苹果影视┃秒播(C240723)","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"ua": "okhttp/3.15","quickSearch":1,"changeable":1},
+
+{"key":"视觉","name":"🇹┃视觉直连┃影视(C240723)","type":3,"api":"csp_Xinsj","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"playerType":1,"changeable":1,"ext":"https://www.80yy3.com/"},
+
+{"key":"萌米","name":"🇹┃萌米直连┃影视(C240723)","type":3,"api":"csp_AppTT","timeout":15,"ua": "okhttp/3.15","playerType":1,"ext":"AO7TcBkd8Iifux0Y8Qze6tVlMg=="},
+
+{"key":"比特","name":"🇹┃比特直连┃秒播(C240723)","type":3,"api":"csp_Bttwoo","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1},
+
+{"key":"zxzj","name":"🇹┃在线外剧┃影视(C240723)","type":3,"api":"csp_Zxzj","timeout":15,"ua": "okhttp/3.15","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzja.com/"},
+
+{"key":"TVB云播","name":"🎦云播┃影视(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/TVB.json"},
+
+{"key":"光棍影视","name":"🎦光棍┃秒播(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/guangun.json"},
+
+{"key":"策驰影院","name":"🎦策驰┃影院(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/cechi.json"},
+
+{"key": "csp_xml_爱坤","name": "🎦爱坤┃2K(C240723)","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","ua": "okhttp/3.15","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:https://www.ikdmjx.com/?url=","categories": ["短剧","邵氏电影","爽文短剧","动作片","国产剧","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","纪录片","动漫电影","欧美剧","港澳剧","韩剧","台湾剧","日剧","海外剧","泰剧","体育","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺","伦理片"]},
+
+{"key":"圣城影视","name":"🎦圣城┃2K(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/sc1080.json"},
+
+{"key":"米爱影视","name":"🎦米爱┃2K(Z240723)","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/miaiys.json"},
+
+{"key": "索尼资源","name": "🎦索尼┃2K(C240723)","type": 1,"api": "https://suoniapi.com/api.php/provide/vod/from/snm3u8/","searchable": 1,"quickSearch": 1,"ua": "okhttp/3.15","filterable": 1,"playurl": "json:https://uutb.centos.chat/jsonwjm.php/?url=","categories": ["短剧","邵氏电影","爽文短剧",,"动作片", "国产剧","喜剧片", "爱情片", "科幻片", "恐怖片", "剧情片", "战争片",  "欧美剧", "韩剧", "日剧", "港剧", "台剧", "泰剧", "海外剧", "纪录片", "大陆综艺", "日韩综艺", "港台综艺", "欧美综艺", "国产动漫", "日韩动漫", "欧美动漫", "动画片", "港台动漫", "海外动漫", "演唱会", "体育赛事", "篮球", "足球", "斯诺克"]},
+
+{"key": "py_cctv","name": "🇨🇳┃央视大全┃影仓(Z240723)","ua": "okhttp/3.15","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://gitee.com/fx520_1/ys/raw/main/lib/cctv.py"},
+
+{"key": "央视经典","name": "🇨🇳┃央视经典┃影视(C240723)","type": 3,"api": "csp_Bili","jar": "http://我不是.摸鱼儿.top/by/jar/moyu.php;md5;be6121b5c37471b191114027123912d2",
+"searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "http://我不是.摸鱼儿.top/api/moyu.php?file=央视经典"},
+
+{"key":"py_cctvdc","name":"🇨🇳┃央视片库┃影仓(C240723)","type":3,"api":"py_cctv","jar": "./lib/HeChengChaXiu7.jar","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitlab.com/tvtg/888/-/raw/main/json/py_cctvdc.json"},
+
+{"key":"cctv","name":"🇨🇳┃央视频道┃大全(Z240723)","type":3,"api":"csp_CCTV","jar": "./lib/HeChengChaXiu7.jar","searchable":0,"filterable":0,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/央视大全.json"},
+
+
 
 {"key":"河马","name":"河马┃App秒播240713","type":3,"api":"csp_Hmys","playerType":1,"ext":"https://m.jmzp.net.cn$$$null$$$1","jar": "./jar/pg1.jar"},
 {"key": "豪华资源","name": "🥬┃豪华┃影视","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1,"categories": ["动画片","中国动漫","日本动漫", "欧美动漫", "剧情片","战争片","动作片","科幻片","记录片","爱情片","喜剧片","灾难片","悬疑片", "犯罪片", "内地剧","香港剧","欧美剧", "韩剧","日剧", "马泰剧","台湾剧","大陆综艺", "日韩综艺","港台综艺","欧美综艺"] },
