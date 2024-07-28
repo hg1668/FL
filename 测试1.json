@@ -9,17 +9,7 @@
 {"key":"csp_南瓜","name":"🅱️南瓜影视(机顶盒 电脑 电器维护13707488633)","type":3,"api":"csp_AppNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
 {"key":"csp_Kuaikan","name":"🎦快看影视(Z240726)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
  
-  {
-      "key": "七年影视",
-      "name": "🚛七年影视",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "playerType": "1",
-      "ext": "./lib/qinian.json"
-    },
+ 
  
  {
 
