@@ -1,7 +1,14 @@
 {
 
-"warningText":"你好",    
+"warningText":"你好 飞翔专属 请勿盗卖",    
 
+"spider": "./HeChengChaXiu.jar",
+"wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+"lives":[{"name":"live",
+"type":0,
+"url":"https://gitcode.net/zqhfx520/fx/-/raw/main/飞翔电视勿盗卖5.1.txt",
+"epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+"logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 
 "sites":[
 
@@ -9,6 +16,13 @@
 {"key":"csp_南瓜","name":"🅱️南瓜影视(机顶盒 电脑 电器维护13707488633)","type":3,"api":"csp_AppNg","searchable":1,"quickSearch":1,"playerType":2,"filterable":1,"ext":"http://ys.changmengyun.com/api.php/provide/@@荷城茶秀"},
 {"key":"csp_Kuaikan","name":"🎦快看影视(Z240726)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/ttkx.jar"},
  {
+      "key": "南瓜2",
+      "name": "南瓜2┃影视(Z240802)",
+      "type": 3,
+      "api": "https://gitee.com/fx520_1/ys/raw/main/lib/drpy2.js",
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/南瓜.js"
+    },
+{
       "key": "看影🏮秒播",
       "name": "看影🏮秒播240703",
       "type": 3,
@@ -248,6 +262,177 @@
 {"key":"骚火","name":"💢骚火","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"ext":{"嗅探词":".m3u8#.mp4#.m3u8?#freeok.mp4","分类url":"https://shdy2.com/list/{cateId}-{catePg}.html;;vr1au0","分类":"电影$1#电视剧$2#韩剧$22#美剧$23#动漫$4","数组二次截取":"class=\"v_list\">&&</ul>","数组":"\"v_img\"&&/div>","标题":"title=\"&&\"","副标题":"v_note\"&&</div","跳转播放链接":"<iframe*src=\"&&\"","二次跳转播放链接":"https://hhjx.hhplayer.com/api.php;post;url=+var url*\"&&\"+&t=+var t*\"&&\"+&key=+var key*\"&&\"+&act=0+&play=1","三次跳转播放链接":"\"url\"*\"&&\""}},
 
 {"key":"csp_黑狐","name":"🅱️黑狐影视|T追剧","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/黑狐影视.json"},
+
+    {
+      "key": "天龙高清",
+      "name": "🐉天龙┃高清(C240802)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "发布地址": "http://113276.xyz",
+        "数组": "<li><a&&BR>分类",
+        "图片": "src=\"&&\"",
+        "副标题": "BR>状态：&&<",
+        "简介": "</font></br>&&</div>",
+        "线路数组": "<i class=\"iconfont\"&&/font",
+        "线路标题": "</i>&&<",
+        "播放数组": "<div class=\"list playlist&&</div",
+        "播放链接": "http://www.82mao.com/+href=\"javascript:OpenWindow3('/&&',window)\"",
+        "跳转播放链接": "http://cdn.tl86dyw.site/cs1/?id=+var player_*url\":\"&&\"",
+        "搜索url": "http://www.82mao.com/Search/{wd}----------{pg}---.html",
+        "分类url": "http://www.82mao.com/List/{cateId}-{area}--{class}-----{catePg}---{year}.html",
+        "分类": "短剧$53#电影频道$17#电视剧场$18#综艺小品$20#动漫频道$48#经典系列$16#动作片$1#喜剧片$2#爱情片$3#科幻片$4#恐怖片$5#剧情片$6#战争片$13#纪录片$14#微电影$19#国产剧$9#香港剧$10#台湾剧$21#韩国剧$12#日本剧$22#欧美剧$11#泰国剧$23#海外剧$24#TVB专区$52#综艺片$8#内地综艺$25#港台综艺$26#日韩综艺$27#欧美综艺$28#动画片$7#国产动漫$29#日韩动漫$30#欧美动漫$31#港台动漫$32#海外动漫$33"
+      }
+    },
+  {
+      "key": "享看资源",
+      "name": "🍓享看/采集(C240802)",
+      "type": 1,
+      "api": "https://shandianzy.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "泰国剧",
+        "大陆综艺",
+        "动画片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "战争片",
+        "悬疑片",
+        "日本动漫",
+        "国产剧",
+        "港台剧",
+        "欧美剧",
+        "日韩剧",
+        "其他剧",
+        "其他片",
+        "欧美动漫",
+        "国产动漫",
+        "港台综艺",
+        "日韩综艺",
+        "欧美综艺"
+      ]
+    },
+  {
+      "key": "360资源",
+      "name": "🍓360资源采集(C240802)",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "playUrl": "",
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "香港剧",
+        "台湾剧",
+        "欧美剧",
+        "日韩动漫",
+        "NBA",
+        "短片",
+        "西部片",
+        "综艺片",
+        "动漫片",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "惊悚片",
+        "悬疑片",
+        "犯罪片",
+        "剧情片",
+        "战争片",
+        "家庭篇",
+        "记录片",
+        "历史片",
+        "动漫片",
+        "大陆综艺",
+        "港台综艺"
+      ]
+    },
+   {
+      "key": "淘片采集",
+      "name": "🍓淘片采集(C240802)",
+      "type": 1,
+      "api": "https://taopianapi.com/cjapi/mc/vod/json.html",
+      "searchable": 1,
+      "filterable": 0,
+      "categories": [
+        "动漫/国产动漫",
+        "动漫/日本动漫",
+        "动漫/欧美动漫",
+        "动漫/海外动漫",
+        "综艺/大陆综艺",
+        "综艺/港台综艺",
+        "综艺/日韩综艺",
+        "综艺/欧美综艺",
+        "综艺/海外综艺",
+        "电视剧/国产剧",
+        "电视剧/香港剧",
+        "电视剧/欧美剧",
+        "电视剧/海外剧",
+        "电视剧/韩国剧",
+        "电视剧/日本剧",
+        "电视剧/泰国剧",
+        "电视剧/台湾剧",
+        "电影/战争片",
+        "电影/科幻片",
+        "电影/奇幻片",
+        "电影/冒险片",
+        "电影/动画片",
+        "电影/喜剧片",
+        "电影/动作片",
+        "电影/爱情片",
+        "电影/恐怖片",
+        "电影/惊悚片",
+        "电影/剧情片",
+        "电影/悬疑片",
+        "电影/纪录片"
+      ]
+    },
+  {
+      "key": "快看采集",
+      "name": "️🍓快看采集(C240802)",
+      "searchable": 1,
+      "type": 1,
+      "playerType": 2,
+      "api": "https://kuaikan-api.com/api.php/provide/vod/?ac=list",
+      "categories": [
+        "热门短剧",
+        "国产剧",
+        "韩国剧",
+        "港台剧",
+        "欧美剧",
+        "国产综艺",
+        "国产动漫",
+        "日本动漫",
+        "网络电影",
+        "动画电影",
+        "动作片",
+        "冒险片",
+        "喜剧片",
+        "爱情片",
+        "奇幻片",
+        "灾难片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "港台综艺"
+      ]
+    },
+    {
+      "key": "大师兄影视",
+      "name": "🚛大师兄影视(Z240802)",
+      "type": 3,
+      "api": "https://gitee.com/fx520_1/ys/raw/main/lib/drpy2.js",
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/dashixiongyingshi.js"
+    },
 
  {
       "key": "rbys",
@@ -2153,7 +2338,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "240726更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "240802更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
@@ -2165,7 +2350,8 @@
       "type": 2,
       "url": "Sequence"
     },
-    {
+     {"name":"解析失败自己换","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}}, 
+{
       "name": "天微科技",
       "type": 1,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
@@ -2296,6 +2482,22 @@
   
  {"name": "🎯小盒解析", "type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
  { "name": "🎯酷玩解析", "type": 0,"url":"https://jx.xmflv.com/?url="  },
+ {
+      "name": "神仙解析1",
+      "type": 1,
+      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
+    },
+    {
+      "name": "神仙解析2",
+      "type": 1,
+      "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
+    },
+    {
+      "name": "神仙解析3",
+      "type": 1,
+      "url": "https://jx.xyflv.cc/?url="
+    },
+
 {"name": "⭕官方","type": 1,"url": "https://api.json.icu/api/?key=f1fcc18f0eeaf0d0c8c3a5739c623e81&url=","ext": {"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
 "header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name": "web聚合","type": 3,"url": "Web"}
@@ -2304,10 +2506,6 @@
 
 
 "flags": ["youku","优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","iqiyi","qiyi","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","letv","leshi","乐视","乐 视","sohu","搜狐","搜 狐","搜狐视频","tudou","pptv","mgtv","芒果","imgo","芒果TV","芒 果 T V","bilibili","哔 哩","哔 哩 哔 哩" ,"wasu", "seven", "m78"],
-
-"spider": "./HeChengChaXiu.jar",
-    "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
-  "lives":[{"name":"live","type":0,"url":"https://wds.ecsxs.com/230864.json","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 
 
 "ijk":[{"group":"软解码","options":[
