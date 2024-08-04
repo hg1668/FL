@@ -2453,7 +2453,7 @@
   
  {"name": "🎯小盒解析", "type": 1,"url":"http://119.91.123.253:2345/Api/yun.php?url="},
  { "name": "🎯酷玩解析", "type": 0,"url":"https://jx.xmflv.com/?url="  },
- {"name":"巧技2","type":1,"url":"https://www.qiaoji8.com/tvbox/json1.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
+ 
 {"name": "⭕官方","type": 1,"url": "https://api.json.icu/api/?key=f1fcc18f0eeaf0d0c8c3a5739c623e81&url=","ext": {"flag": ["qq","腾讯","qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],
 "header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name": "web聚合","type": 3,"url": "Web"}
