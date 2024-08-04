@@ -2350,7 +2350,7 @@
       "name": "Json轮询",
       "type": 2,
       "url": "Sequence"
-    }  
+    },
     
     {
       "name": "推荐",
