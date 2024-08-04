@@ -2345,6 +2345,13 @@
 "parses": [ 
 
 {"name": "解析聚合","type": 3,"url": "Demo"},
+    
+   {
+      "name": "Json轮询",
+      "type": 2,
+      "url": "Sequence"
+    }  
+    
     {
       "name": "推荐",
       "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
