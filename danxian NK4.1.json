@@ -628,8 +628,16 @@
       "filterable": 1,
       "ext": "http://cms.4u4.cn/api.php/app/"
     },
-       
-
+     {
+      "key": "jpys",
+      "name": "荐片┃影视(C240825)",
+      "type": 3,
+      "api": "http://cdn.teyonds.com/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://cdn.teyonds.com/js/荐片影视.js"
+    }, 
 {
       "key": "黑木耳资源",
       "name": "木耳🥑蓝光",
@@ -2023,8 +2031,20 @@
         "短剧"
       ]
     },
-   
-      {"key":"小镇","name":"👑电影小镇👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
+ 
+ {"key":"萝卜","name":"🥕萝卜影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"标题":"title=\"&&\"","图片":"data-original=\"&&\"","副标题":"\u516c\u5b50\u4e13\u5c5e+module-item-note\"&&
+","线路标题":"&&[替换:>>共]+集","线路数组":"module-tab-item tab-item\"&&","播放数组":"module-play-list-content&&","分类url":"https://cj.lbbb.cc/index.php/vod/show/id/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$1#电视剧$2#动漫$4#综艺$3"}},
+
+{"key":"hg","name":"⚧️HG影视(C240825)","type":3,"api":"csp_XBPQ","ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://hong.hgyx.vip/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html","分类":"电影$1#剧集$2#综艺$3#动漫$4"}},
+
+ {"key":"gqys","name":"⛰高清影院(C240825)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://www.wxjusen.com/vodlist/{cateId}___{year}___{catePg}.html[https://www.wxjusen.com/{cateId}/]","分类":"短剧&电影&电视剧&动漫&综艺&剧情&娱乐新闻","分类值":"duanju&dianying&dianshiju&dongman&zongyi&juqing&yulexinwen"}},
+
+ {"key":" 小小","name":"🎺小小影视(C240825)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e","分类url":"https://www.weihuafrp.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}----{catePg}---{year}.html","分类":"电影&电视剧&动漫&综艺&动画片&香港电影","分类值":"1&2&4&3&35&36"}},
+
+{"key":"短剧TV","name":"🆖短剧TV(C240825)","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"数组":"","图片":"< img src=\"&&\"","标题":"title=\"&&\"","副标题":"pic-text text-right\">&&","链接":"href=\"&&\"","线路数组":"stui-pannel__head bottom-line&&","线路标题":"title\">&&
+","播放数组":"stui-content__playlist&&","播放列表":"","播放标题":">&&","播放链接":"href=\'&&\'","跳转播放链接":"urlDecode(var player_*url\":\"&&\")","搜索url":"http://www.duanjutv.cc/vodsearch/{wd}----------{pg}---.html","分类":"抖音短剧$20#快手短剧$21#视频号短剧$22#热播短剧$23","分类url":"http://www.duanjutv.cc/vodtype/{cateId}-{catePg}.html"}},
+
+    {"key":"小镇","name":"👑电影小镇👑","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"主页url":"http://dyxz.tv","数组":"<div class=\"stui-vodlist__box\">&&</div>","图片":"data-original=\"&&\"","标题":"title=\"&&\"","链接":"href=\"&&\"","副标题":"<span class=\"pic-text text-right\">&&</span>","搜索url":"http://dyxz.tv/search.php;post;searchword={wd}","搜索模式":"1","搜索数组":"<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片":"data-original=\"&&\"","搜索标题":"title=\"&&\"","搜索链接":"href=\"&&\"","搜索副标题":"<span class=\"pic-text text-right\">&&</span>","搜索后缀":"/view/","线路数组":"<a data-toggle=\"tab\"&&/a>","线路标题":">&&<","播放数组":"<ul class=\"stui-content__playlist clearfix&&</ul>","影片年代":"年份：&&</p>","影片地区":"地区：&&<span","影片类型":"类型：&&</a>","导演":"导演：&&</p>","主演":"主演：&&</p>","简介":"更新：&&</p>","播放列表":"<a&&/a>","播放标题":">&&<","播放链接":"href=\"&&\"","免嗅":"0","分类url":"http://dyxz.tv/list/{cateId}_{catePg}.html","分类":"电影$1#电视剧$2#动漫$3#综艺$4"}},
                         
   {
       "key": "影图资源",
@@ -2286,7 +2306,8 @@
       "changeable": 0,
       "ext": "https://gitlab.com/lzc1021lzc/hjfggzs.hjys/-/raw/main/hjzy/bilibili.js"
     },
-
+{"key":"csp_FirstAid","name":"急救教学(机顶盒 电脑 电器维护13707488633)
+","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"jar":"http://www.lyyytv.cn/yt/yt.jar","style":{"type":"rect","ratio":3.8},"gridview":"0-0-4.1"}, 
 {"key": "演唱会","name": "演唱会(机顶盒 电脑 电器维护13707488633)
 ","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/演唱会.json"}, 
 {"key": "戏曲","name": "戏曲合集(机顶盒 电脑 电器维护13707488633)
@@ -2328,7 +2349,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "240819更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "240825更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
