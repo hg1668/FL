@@ -425,8 +425,111 @@
         "战争片",
         "港台综艺"
       ]
+    },   
+ {
+      "key": "新感觉",
+      "name": "新感觉｜APP(C240906)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://43.248.100.147:9891/api.php/app/"
     },
-    {
+ {
+      "key": "剧集",
+      "name": "拾光☪剧集(C240906)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "搜索url": "https://wap.ijujitv.cc/search/-------------.html?wd=**",
+        "分类url": "https://wap.ijujitv.cc/show/{cateId}--------{catePg}---{year}.html",
+        "分类": "陆剧$6#日剧$2#美剧$3#泰剧$4#港剧$7#台剧$8#短剧$9"
+      }
+    },
+  {
+      "key": "qimaoys",
+      "name": "拾光☪七猫(C240906)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "主页url": "http://www.qimaoym.com",
+        "数组": "class=\"module-item-cover\">&&class=\"module-item\">",
+        "标题": "title=\"&&\"",
+        "副标题": "module-item-text\">&&</div>",
+        "链接": "href=\"&&\"",
+        "图片": "data-src=\"&&\"",
+        "嗅探词": ".mp4#m3u8#.m3u8#/tos/#.flv#video/tos",
+        "搜索url": "http://www.qimaoym.com/index.php/vod/search/wd/{wd}",
+        "影片类型": "<div class=\"module-info-tag\">&&立即播放",
+        "线路数组": "module-tab-item tab-item\"&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>🍥]+集",
+        "播放数组": "class=\"module-blocklist\">&&</div",
+        "播放列表": "<a&&</a",
+        "播放标题": "<span&&</span",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#短剧$28#少儿$38",
+        "分类url": "http://www.qimaoym.com/index.php/vod/show/area/{area}/by/{by}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+ {
+      "key": "YY影视",
+      "name": "拾光☪VIP秒播(C240906)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",
+        "主页url": "https://uuys.cc",
+        "二次截取": "module-page&&<div id=\"page\">",
+        "数组": "<a&&</div></div>",
+        "图片": "data-original=\"&&\"",
+        "标题": "title=\"&&\"",
+        "链接": "href=\"&&\"",
+        "副标题": "拾光专享✨+module-item-note&&</div>",
+        "线路数组": "item tab-item&&</div>[排序:海湾资源>非凡播放>无尽资源]",
+        "线路标题": "拾光✨+<span>&&</span>+【共+<small>&&</small>+集】",
+        "播放数组": "module-play-list\"&&</div>",
+        "播放标题": "拾光✨+>&&</",
+        "简介": "拾光提醒：请勿相信视频里的广告！+<p>&&</p >",
+        "搜索url": "https://uuys.cc/vodsearch/{wd}----------{pg}---.html",
+        "分类url": "https://uuys.cc/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html",
+        "分类": "电影$2#电视剧$1#综艺$4#动漫$3"
+      }
+    },
+ {
+      "key": "567🎬",
+      "name": "拾光☪567(C240906)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.567dyy.com/show/{cateId}--------{catePg}---.html",
+        "分类": "电影&电视剧&综艺&动漫",
+        "分类值": "1&2&3&4",
+        "公众号卫华正能量大爱学堂出品": ""
+      }
+    },
+ {
+      "key": "高清云影视",
+      "name": "拾光☪高清云(C240906)",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": "2",
+      "api": "csp_XBPQ",
+      "ext": {
+        "请求头": "手机",
+        "站名": "高清云影视",
+        "主页url": "https://www.guangmaoshenye.com",
+        "分类url": "https://www.guangmaoshenye.com/show/{cateId}-{area}-{by}------{catePg}---{year}/[https://www.guangmaoshenye.com/gain/{cateId}/]",
+        "分类": "电视剧$dianshiju#动漫$dongman#综艺$zongyi#动画片$donghuapian#体育赛事$tiyushaishi"
+      }
+    },
+{
       "key": "大师兄影视",
       "name": "🚛大师兄影视(Z240802)",
       "type": 3,
@@ -637,7 +740,7 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "http://cdn.teyonds.com/js/荐片影视.js"
-    }, 
+    },
 {
       "key": "黑木耳资源",
       "name": "木耳🥑蓝光",
@@ -2349,7 +2452,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "240825更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "240906更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
