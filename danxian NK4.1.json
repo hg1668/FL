@@ -23,16 +23,6 @@
       "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/南瓜.js"
     },
 {
-      "key": "看影🏮秒播",
-      "name": "看影🏮秒播240703",
-      "type": 3,
-      "api": "csp_Kuaikan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
-      "filterable": 1
-    },
-{
       "key": "天天💋秒播",
       "name": "天天💋秒播240703",
       "type": 3,
@@ -156,7 +146,6 @@
         "欧美综艺"
       ]
     },
-
 {"key": "畅梦","name": "🇹┃畅梦影视┃秒播(Z240723)","type": 3,"ua": "okhttp/3.15","api": "./lib/drpy2.min.js","ext": "https://gitee.com/fx520_1/ys/raw/main/lib/畅梦.js"},
 
 {"key":"茶狐杯","name":"🇹┃茶杯狐源┃秒播(Z240723)","type":3,"api":"csp_XBPQ","searchable":1,"ua": "okhttp/3.15","quickSearch":1,"filterable":1,"ext":"https://gitee.com/fx520_1/ys/raw/main/lib/茶狐杯.json"},
@@ -537,7 +526,622 @@
       "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/dashixiongyingshi.js"
     },
 
+  {
+      "key": "热播TV",
+      "name": "🔥热播┃TV┃多线(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "data-toggle=\"tab&&</a>",
+        "线路标题": ">&&<",
+        "分类": "国产剧$13#港台剧$14#日韩剧$15#海外剧$16#动作$6#喜剧$7#爱情$8#科幻$9#恐怖$10#剧情$11#战争$12#纪录片$3#国产动漫$24#日韩动漫$25#港台动漫$26#欧美动漫$27#大陆综艺$17#港台综艺$18#日韩综艺$20#欧美综艺$21#短剧$28",
+        "分类url": "https://rebozj.pro/type/1/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html"
+      }
+    },
+  {
+      "key": "追剧很卷",
+      "name": "☀️追剧┃蓝光┃流畅(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片地区": "圥忈制作",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://www.freeokk.pro/show/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#动漫$3#综艺$4#短剧$5"
+      }
+    },
  {
+      "key": "麦田影视",
+      "name": "⭐麦田┃超清┃多源(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "图片": "data-src=\"&&\"",
+        "线路数组": "<a class=\"swiper-slide\"&&</a>",
+        "线路标题": "</i>&nbsp;&&</a>+集",
+        "搜索url": "https://www.mtyy1.com/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.mtyy1.com/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电视剧$1#电影$2#动漫$4#综艺$3#短剧$5#纪录片$6"
+      }
+    },
+ {
+      "key": "电影TV",
+      "name": "⭐电影┃高清┃节点(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:QI节点#QT节点#KU节点]",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://xn--44qz85a01qpc.com/pianku-{cateId}-{class}-{by}-{area}-{lang}----{catePg}---{year}.html",
+        "分类": "国产剧$guochan#香港剧$gangju#台湾剧$taiju#韩国剧$hanju#日本剧$riju#欧美剧$oumei#海外剧$haiwai#动作片$action#喜剧片$xiju#爱情片$romance#科幻片$science#恐怖片$horror#剧情片$feature#战争片$war#动画片$cartoon#纪录片$jilupian#国产动漫$gcdm#日本动漫$rbdm#欧美动漫$omdm#海外动漫$hwdm#内地综艺$ndzy#港台综艺$gtzy#日韩综艺$rhzy#欧美综艺$omzy"
+      }
+    },
+  {
+      "key": "全看影视",
+      "name": "🟠小小┃高清┃秒播(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8?#bdric-cdn-tos.1ljx.com#.m3u8#.mp4",
+        "简介": "<div class=\"stui-content__desc col-pd clearfix\"&&</div>",
+        "线路数组": "<div class=\"stui-pannel__head clearfix\"&&</div>",
+        "线路标题": "class=\"title\">&&</h3>",
+        "分类url": "https://wap.qkw2.cc/vod/show/{cateId}--------{catePg}---.html",
+        "分类": "动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#奇幻片$21#纪录片$22#悬疑片$25#犯罪片$26#惊悚片$27#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20#动漫$4#综艺$3#短剧$28"
+      }
+    },
+    {
+      "key": "freeok",
+      "name": "👀小米┃超清┃流畅(Z240910)",
+      "type": 3,
+      "click": "document.querySelector(\"#playleft iframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "api": "csp_FreeOK",
+      "jar": "./jar/xmpg.jar"
+    },
+   {
+      "key": "金牌影视",
+      "name": "🥇金牌┃超清┃秒播(Z240910)",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar": "./jar/fanou.txt",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "天天影视",
+      "name": "😈天天┃高清┃纯净(C240910)",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/spider.jar",
+      "ext": "http://op.ysdqjs.cn"
+    },
+ {
+      "key": "白羊影院",
+      "name": "🐑白羊┃超清┃极速(Z240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/白羊影院.json"
+    },
+ 
+  {
+      "key": "天堂蓝光",
+      "name": "🧿天堂┃蓝光(Z240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/影院蓝光.json"
+    },
+
+  {
+      "key": "利伍蓝光",
+      "name": "🧿利伍┃蓝光(Z240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/策驰影视.json"
+    },
+   {
+      "key": "好影快看",
+      "name": "🧿好影┃蓝光(Z240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/好影快看.json"
+    },
+ {
+      "key": "美柏影视",
+      "name": "🧿美柏┃蓝光(Z240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/美柏影视.json"
+    },
+ {
+      "key": "可乐影视",
+      "name": "🧿可乐┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"display: none;\"&&</span>",
+        "分类url": "https://www.kele365.com/index.php/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$20#电视剧$21#动漫$22#综艺$23#体育$24#短剧$25"
+      }
+    },
+   {
+      "key": "Gofree",
+      "name": "🧿喵迅┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "嗅探词": ".m3u8?#play.mtle.cn#.m3u8#.mp4",
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:喵讯(APP专享)#喵酷]",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "播放数组": "<div class=\"module-play-list\"&&</div>",
+        "分类url": "https://gofree.vip/show/dianying-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$dianying#电视剧$dianshiju#韩剧$HJ#动漫$dongman#综艺$zongyi#短剧$dydj"
+      }
+    },
+  {
+      "key": "电影驿站",
+      "name": "🧿驿站┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片地区": "圥忈制作",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<p>&&</p>",
+        "分类url": "https://www.dyyz1.app/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动画片$31#B站$41#短剧$49#电影解说$32"
+      }
+    },
+   {
+      "key": "小熊影视",
+      "name": "🧿小熊┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.xxystv.top/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "动作片$6#爱情片$7#科幻片$8#恐怖片$9#剧情片$10#战争片$11#动漫片$12#纪录片$20#喜剧片$21#其他片$22#中国剧$13#欧美剧$14#日韩剧$15#港台剧$16#其他剧$23#动漫$3#综艺$4#伦理片$5"
+      }
+    },
+  {
+      "key": "优优影视",
+      "name": "🧿优优┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://nuu.su/x/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#爽剧$5#记录$6"
+      }
+    },
+  {
+      "key": "宝片影视",
+      "name": "🧿宝片┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://ibaopian.com/vod/type/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$20#短剧$22"
+      }
+    },
+  {
+      "key": "雨见视频",
+      "name": "🧿雨见┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片类型": "类型：&&</li>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+        "分类url": "http://yjsp.mxys8.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#纪录片$27"
+      }
+    },
+  {
+      "key": "iysdq",
+      "name": "🧿影院┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.iysdq.cc/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "国产剧$21#香港剧$22#台湾剧$23#韩国剧$24#日本剧$25#欧美剧$26#泰国剧$27#海外剧$28#电影$1#动漫$4#综艺$3"
+      }
+    },
+   {
+      "key": "没事影院",
+      "name": "🧿没事┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.yu992.com/lys/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "剧集$juji#电影$dianying#综艺$zongyi#动漫$dongman#短剧$duanju"
+      }
+    },
+ {
+      "key": "影视大全",
+      "name": "🧿聚合┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<p class=\"module-info-item-content&&</p>",
+        "分类url": "https://www.ysdq.me/vodshow/{cateId}-{class}-{by}-{area}-{lang}--{catePg}-{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$5#综艺$4#短剧$3"
+      }
+    },
+  {
+      "key": "金漫TV",
+      "name": "🧿金漫┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>[不包含:芒果(超多弹幕)#腾讯(超多弹幕)#优酷(超多弹幕)#爱奇艺(超多弹幕)]",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://www.jinman6.com/index.php/vod/show/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$3#综艺$4#纪录片$5#短剧$25"
+      }
+    },
+ {
+      "key": "影视界",
+      "name": "🧿视界┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "分类url": "https://ysj.us/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}",
+        "分类": "电影$1#剧集$2#动漫$4#综艺$3#短剧$34"
+      }
+    },
+  {
+      "key": "一个G",
+      "name": "🧿逸哥┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "<div class=\"module-info-tag\">&&</div>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "module-info-tag\">&&立即播放",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+style=\"line-height: 20px;\"&&</div>",
+        "线路数组": "data-dropdown-value=&&</div>",
+        "线路标题": "<span>&&</span>",
+        "分类url": "https://yigeg.pro/vodshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
+ {
+      "key": "豌豆影院",
+      "name": "🧿豌豆┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "影片地区": "圥忈制作",
+        "影片年代": "年份: &&</p>",
+        "影片状态": "备注：&&</div>",
+        "影片类型": "类型: &&</p>",
+        "主演": "主演: &&</p>",
+        "简介": "请勿相信影片中的广告，以免上当受骗。+<div class=\"bottom\"&&</div>",
+        "分类url": "https://www.wandou9.com/wdshow/1-----------/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#纪录片$20"
+      }
+    },
+ {
+      "key": "唐人",
+      "name": "🧿唐人┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.trjvod.com/index.php/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#连续剧$2#动漫$4#综艺$3#体育$59#短剧$53"
+      }
+    },
+ {
+      "key": "人人影视",
+      "name": "🧿人人┃蓝光(C240910)",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "分类url": "https://www.rr520.cc/list/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$5"
+      }
+    },
+  {
+      "key": "北极狐",
+      "name": "⚡极狐┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/"
+    },
+  {
+      "key": "CC影视",
+      "name": "⚡纯畅┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://ys.ccbk.cc:86/mogai_api.php/v1.vod"
+    },
+ {
+      "key": "星易影影院",
+      "name": "⚡星影┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.xingyiying.com/api.php/v1.vod"
+    },
+  {
+      "key": "零刻影视",
+      "name": "⚡零刻┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ys.51bro.cn/mogai_api.php/v1.vod"
+    },
+  {
+      "key": "千梦影视",
+      "name": "⚡千梦┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.qmjzys.com/api.php/app/"
+    },
+    {
+      "key": "沐沐电影",
+      "name": "⚡沐沐┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://nnystv.cn/api.php/app/"
+    },
+ {
+      "key": "北川影视",
+      "name": "⚡北川┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.bczhuiju.com/api.php/v1.vod"
+    },
+   {
+      "key": "555影院",
+      "name": "⚡555┃APP(C240910)",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://5dshowhub.com/api.php/app/"
+    },
+ {
+      "key": "热播影视",
+      "name": "💮热播┃直连(C240910)",
+      "type": 3,
+      "api": "csp_TTian",
+      "jar": "./jar/spider.jar",
+      "ext": "http://v.rbotv.cn"
+    },
+ {
+      "key": "黑墙影视",
+      "name": "💡黑墙┃快播(C240910)",
+      "type": 1,
+      "api": "https://blackwallvideo.online/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+  {
+      "key": "刺桐影视",
+      "name": "💡刺桐┃快播(C240910)",
+      "type": 1,
+      "api": "http://pg.cttv.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+ {
+      "key": "影猫影视",
+      "name": "💡影猫┃快播(C240910)",
+      "type": 1,
+      "api": "http://ysm.tkbot.fun/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+   {
+      "key": "何以影视",
+      "name": "💡何以┃快播(C240910)",
+      "type": 1,
+      "api": "https://www.heyik.cn/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+  {
+      "key": "HG影视",
+      "name": "💡皇冠┃快播(C240910)",
+      "type": 1,
+      "api": "https://hong.hgyx.vip/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+  {
+      "key": "BILFUN影视",
+      "name": "💡有趣┃快播(C240910)",
+      "type": 1,
+      "api": "https://c.waijutv.cc/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1
+    },
+  {
+      "key": "二次萌影视",
+      "name": "💡次萌┃快播(C240910)",
+      "type": 1,
+      "api": "https://www.ecmys.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "纪录片",
+        "大陆综艺",
+        "日韩综艺",
+        "港台综艺",
+        "欧美综艺",
+        "国产动漫",
+        "日韩动漫",
+        "欧美动漫",
+        "海外动漫",
+        "海外剧",
+        "解说片",
+        "短剧"
+      ]
+    },
+ {
+      "key": "电影港",
+      "name": "🧲电影港┃磁力(Z240910)",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/电影港.json"
+    },
+ {
+      "key": "看影🏮秒播",
+      "name": "看影🏮秒播240703",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "jar": "http://host407776532.s1169.pppf.com.cn/app/hysxb.txt",
+      "filterable": 1
+    },
+{
       "key": "rbys",
       "name": "热播┃影视24620",
       "type": 3,
@@ -2452,7 +3056,7 @@
 
 {"key":"AliYunPan","name":"🅱️阿里云盘|T设置","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
 {"key":"wogg","name":"🅱️玩偶阿里|T追剧","type":3,"api":"csp_XYQHikerAL","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
-{"key": "UpYun","name": "240906更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
+{"key": "UpYun","name": "240910更新","type": 3,"api": "csp_UpYun","searchable": 1,"quickSearch": 1,"changeable": 0,"ext": "./tvbox/tok.txt+4k|auto|fhd","jar": "./jar/RevsYourHeart.jar.jar"}
 
 ],
 
@@ -2464,7 +3068,6 @@
       "type": 2,
       "url": "Sequence"
     },
-
  {
       "name": "推荐",
       "url": "http://110.42.7.182:881/api/?key=c4c3p0YQDnvmdaoVnT&url=",
@@ -2473,7 +3076,12 @@
       "type_text": "Type 1",
       "status_text": "正常"
     },
-    {
+   {
+      "name": "ypjk推荐",
+      "type": 0,
+      "url": "https://jx.yparse.com/index.php?url="
+    },  
+{
       "name": "巧技",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
