@@ -6,7 +6,7 @@
 "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
 "lives":[{"name":"live",
 "type":0,
-"url":"https://notabug.org/HG520/YS/raw/main/feixiangdianshi4.1.txt",
+"url":"https://hub.gitmirror.com/https://raw.githubusercontent.com/xiangge520/FX/refs/heads/main/feixiangdianshi专G外5.1.txt",
 "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
 "logo":"https://epg.112114.xyz/bingimg/logo/{name}.png"}],
 
@@ -3378,7 +3378,7 @@
     },
  {
       "key": "hipy_js_啊哈DJ[听]",
-      "name": "🎵DJ(机顶盒 电脑 电器维护13707488633)",
+      "name": "🎵DJ音乐(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "http://47.99.102.252/drpy_dzlive/drpy_libs/drpy2.min.js",
       "searchable": 1,
@@ -3389,17 +3389,17 @@
     },
   {
       "key": "2400部恐怖电影📲",
-      "name": "🏅电影(机顶盒 电脑 电器维护13707488633)",
+      "name": "🏅恐怖电影(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
       "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/2400部恐怖电影.js"
     },
     {
       "key": "十六万MV听歌📣",
-      "name": "🏅听歌(机顶盒 电脑 电器维护13707488633)",
+      "name": "🏅MV听歌(机顶盒 电脑 电器维护13707488633)",
       "type": 3,
       "api": "http://zb.hys.cool/app/lib/16万hys.js",
-      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/2400部恐怖电影.js"
+      "ext": "https://gitee.com/fx520_1/ys/raw/main/lib/16万mv.js"
     },
  {
       "key": " XYQH_童趣",
